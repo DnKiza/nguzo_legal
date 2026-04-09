@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "....",
+  "lastUpdated": "15-04-2025",
   "documents": {
     "terms": {
       "en": {
@@ -287,15 +287,15 @@
             "heading": "Contact Information",
             "items": [
               { "label": "Platform Name", "text": "Nguzo" },
-              { "label": "Registered Address", "text": "[To be completed], Bujumbura, Republic of Burundi" },
-              { "label": "Legal Notices", "text": "{LEGAL EMAIL}" },
-              { "label": "General Support", "text": "{SUPPORT EMAIL}" }
+              { "label": "Address", "text": "Bujumbura, Republic of Burundi" },
+              { "label": "Legal Notices", "text": "nguzo.official@gmail.com" },
+              { "label": "General Support", "text": "support.nguzo@gmail.com" }
             ]
           }
         ]
       },
       "fr": {
-        "title": "NGUZO MARKETPLACE — Conditions d'Utilisation",
+        "title": "Conditions d'Utilisation",
         "subtitle": "Régi par les lois de la République du Burundi",
         "sections": [
           {
@@ -579,15 +579,15 @@
             "heading": "Coordonnées",
             "items": [
               { "label": "Nom de la Plateforme", "text": "Nguzo" },
-              { "label": "Adresse Enregistrée", "text": "[À compléter], Bujumbura, République du Burundi" },
-              { "label": "Notifications Légales", "text": "{EMAIL JURIDIQUE}" },
-              { "label": "Assistance Générale", "text": "{EMAIL SUPPORT}" }
+              { "label": "Adresse", "text": "Bujumbura, République du Burundi" },
+              { "label": "Notifications Légales", "text": "nguzo.official@gmail.com" },
+              { "label": "Assistance Générale", "text": "support.nguzo@gmail.com" }
             ]
           }
         ]
       },
       "rn": {
-        "title": "NGUZO MARKETPLACE — Amategeko y'Ikoreshwa",
+        "title": "Amategeko y'Ikoreshwa",
         "subtitle": "Ategekwa n'amategeko ya Republika y'Uburundi",
         "sections": [
           {
@@ -871,9 +871,9 @@
             "heading": "Amakuru y'Itumanahano",
             "items": [
               { "label": "Izina rya Urubuga", "text": "Nguzo" },
-              { "label": "Aderesi Yiyandikishijwe", "text": "[Rizuzwa], Bujumbura, Republika y'Uburundi" },
-              { "label": "Amatangazo y'Amategeko", "text": "{IMERI Y'AMATEGEKO}" },
-              { "label": "Inkunga Rusangi", "text": "{IMERI Y'INKUNGA}" }
+              { "label": "Aderesi", "text": "Bujumbura, Republika y'Uburundi" },
+              { "label": "Amatangazo y'Amategeko", "text": "nguzo.official@gmail.com" },
+              { "label": "Inkunga Rusangi", "text": "support.nguzo@gmail.com" }
             ]
           }
         ]
@@ -901,8 +901,8 @@
             "heading": "Data Controller",
             "items": [
               { "label": "Controller", "text": "Nguzo" },
-              { "label": "Registered Address", "text": "[Same as Terms], Bujumbura, Republic of Burundi" },
-              { "label": "Data Protection Contact", "text": "{DPO EMAIL}" }
+              { "label": "Address", "text": "Bujumbura, Republic of Burundi" },
+              { "label": "Data Protection Contact", "text": "nguzo.official@gmail.com" }
             ],
             "footer": "You may contact our data protection contact for any question, request, or complaint related to the processing of your personal data."
           },
@@ -987,12 +987,12 @@
               { "label": "Right to Withdraw Consent", "text": "Withdraw consent for GPS location processing at any time via your device settings, without penalty." },
               { "label": "Right to Object", "text": "Object to processing based on legitimate interest, subject to our demonstrating compelling legitimate grounds." }
             ],
-            "footer": "To exercise any of the above rights, contact our Data Protection Contact at [DPO EMAIL]. We will respond within a reasonable period in accordance with the implementing regulations once published."
+            "footer": "To exercise any of the above rights, contact our Data Protection Contact at nguzo.official@gmail.com. We will respond within a reasonable period in accordance with the implementing regulations once published."
           },
           {
             "number": "10",
             "heading": "Children's Privacy",
-            "body": "The Platform is strictly intended for users who are 18 years of age or older. We do not knowingly collect or retain personal data from minors.\n\nIf we discover that a User is under 18, we will immediately and permanently suspend the account and delete all associated personal data, in accordance with our obligations under Section 3.1 of the Terms of Use and applicable Burundian child protection principles.\n\nIf you become aware of a minor using the Platform, please report it immediately via [SUPPORT EMAIL]."
+            "body": "The Platform is strictly intended for users who are 18 years of age or older. We do not knowingly collect or retain personal data from minors.\n\nIf we discover that a User is under 18, we will immediately and permanently suspend the account and delete all associated personal data, in accordance with our obligations under Section 3.1 of the Terms of Use and applicable Burundian child protection principles.\n\nIf you become aware of a minor using the Platform, please report it immediately via support.nguzo@gmail.com."
           },
           {
             "number": "11",
@@ -1017,16 +1017,16 @@
             "number": "13",
             "heading": "Contact and Complaints",
             "items": [
-              { "label": "Data Protection Contact", "text": "{DPO EMAIL}" },
-              { "label": "General Support", "text": "{SUPPORT EMAIL}" },
-              { "label": "Postal Address", "text": "[To be completed], Bujumbura, Republic of Burundi" }
+              { "label": "Data Protection Contact", "text": "nguzo.official@gmail.com" },
+              { "label": "General Support", "text": "support.nguzo@gmail.com" },
+              { "label": "Address", "text": "Bujumbura, Republic of Burundi" }
             ],
             "footer": "If you believe your privacy rights have been violated and we have not adequately addressed your concern, you have the right to lodge a complaint with the Burundian Data Protection Authority once it is constituted under the January 2026 Data Protection Law."
           }
         ]
       },
       "fr": {
-        "title": "NGUZO MARKETPLACE — Politique de Confidentialité",
+        "title": "Politique de Confidentialité",
         "subtitle": "République du Burundi · Loi sur la Protection des Données (janvier 2026) · Loi N°1/10 du 16 mars 2022",
         "sections": [
           {
@@ -1046,8 +1046,8 @@
             "heading": "Responsable du Traitement",
             "items": [
               { "label": "Responsable", "text": "Nguzo" },
-              { "label": "Adresse Enregistrée", "text": "[Identique aux Conditions], Bujumbura, République du Burundi" },
-              { "label": "Contact Protection des Données", "text": "{EMAIL DPO}" }
+              { "label": "Adresse", "text": "Bujumbura, République du Burundi" },
+              { "label": "Contact Protection des Données", "text": "nguzo.official@gmail.com" }
             ],
             "footer": "Vous pouvez contacter notre délégué à la protection des données pour toute question, demande ou plainte relative au traitement de vos données personnelles."
           },
@@ -1132,12 +1132,12 @@
               { "label": "Droit de Retrait du Consentement", "text": "Retirer votre consentement au traitement de la localisation GPS à tout moment via les paramètres de votre appareil, sans pénalité." },
               { "label": "Droit d'Opposition", "text": "S'opposer au traitement fondé sur l'intérêt légitime, sous réserve que nous démontrions des motifs légitimes impérieux." }
             ],
-            "footer": "Pour exercer l'un des droits ci-dessus, contactez notre Délégué à la Protection des Données à [EMAIL DPO]. Nous répondrons dans un délai raisonnable conformément aux réglementations d'application une fois publiées."
+            "footer": "Pour exercer l'un des droits ci-dessus, contactez notre Délégué à la Protection des Données à nguzo.official@gmail.com. Nous répondrons dans un délai raisonnable conformément aux réglementations d'application une fois publiées."
           },
           {
             "number": "10",
             "heading": "Protection de la Vie Privée des Enfants",
-            "body": "La Plateforme est strictement destinée aux utilisateurs âgés de 18 ans ou plus. Nous ne collectons ni ne conservons sciemment les données personnelles de mineurs.\n\nSi nous découvrons qu'un Utilisateur a moins de 18 ans, nous suspendrons immédiatement et définitivement le compte et supprimerons toutes les données personnelles associées, conformément à nos obligations au titre de l'Article 3.1 des Conditions d'Utilisation et des principes burundais de protection de l'enfance applicables.\n\nSi vous avez connaissance d'un mineur utilisant la Plateforme, veuillez le signaler immédiatement via [EMAIL SUPPORT]."
+            "body": "La Plateforme est strictement destinée aux utilisateurs âgés de 18 ans ou plus. Nous ne collectons ni ne conservons sciemment les données personnelles de mineurs.\n\nSi nous découvrons qu'un Utilisateur a moins de 18 ans, nous suspendrons immédiatement et définitivement le compte et supprimerons toutes les données personnelles associées, conformément à nos obligations au titre de l'Article 3.1 des Conditions d'Utilisation et des principes burundais de protection de l'enfance applicables.\n\nSi vous avez connaissance d'un mineur utilisant la Plateforme, veuillez le signaler immédiatement via support.nguzo@gmail.com."
           },
           {
             "number": "11",
@@ -1162,16 +1162,16 @@
             "number": "13",
             "heading": "Contact et Réclamations",
             "items": [
-              { "label": "Contact Protection des Données", "text": "{EMAIL DPO}" },
-              { "label": "Assistance Générale", "text": "{EMAIL SUPPORT}" },
-              { "label": "Adresse Postale", "text": "[À compléter], Bujumbura, République du Burundi" }
+              { "label": "Contact Protection des Données", "text": "nguzo.official@gmail.com" },
+              { "label": "Assistance Générale", "text": "support.nguzo@gmail.com" },
+              { "label": "Adresse", "text": "Bujumbura, République du Burundi" }
             ],
             "footer": "Si vous estimez que vos droits en matière de confidentialité ont été violés et que nous n'avons pas répondu de manière adéquate à votre préoccupation, vous avez le droit de déposer une plainte auprès de l'Autorité burundaise de Protection des Données une fois qu'elle sera constituée en vertu de la Loi sur la Protection des Données de janvier 2026."
           }
         ]
       },
       "rn": {
-        "title": "NGUZO MARKETPLACE — Politike y'Intimba",
+        "title": "Politike y'Intimba",
         "subtitle": "Republika y'Uburundi · Itegeko ryo Kurinda Amakuru (Nzero 2026) · Itegeko Nshinga N°1/10 ryo ku wa 16 Ntwarante 2022",
         "sections": [
           {
@@ -1191,8 +1191,8 @@
             "heading": "Uwifashe Inshingano z'Amakuru",
             "items": [
               { "label": "Uwifashe Inshingano", "text": "Nguzo" },
-              { "label": "Aderesi Yiyandikishijwe", "text": "[Nk'uko biri mu Mategeko], Bujumbura, Republika y'Uburundi" },
-              { "label": "Itumanahano ryo Kurinda Amakuru", "text": "{IMERI YA DPO}" }
+              { "label": "Aderesi", "text": "Bujumbura, Republika y'Uburundi" },
+              { "label": "Itumanahano ryo Kurinda Amakuru", "text": "nguzo.official@gmail.com" }
             ],
             "footer": "Urashobora gutumanikira utumanahano twacu two kurinda amakuru ku kibazo ico ari co cose, isaba, canke ikirego girebana no gukurikirana amakuru yawe bwite."
           },
@@ -1277,12 +1277,12 @@
               { "label": "Uburenganzira bwo Gusubiza Inyuma Kwemera", "text": "Gusubiza inyuma kwemera gukurikirana GPS ahantu igihe cose biciye ku ngorwa z'igikoresho cawe, atari na rumwe ihazabu." },
               { "label": "Uburenganzira bwo Guhakana", "text": "Guhakana gukurikirana bushingiye ku nyungu isanzwe, bivuye ku twe twerekana ishingiro rihamye ry'inyungu." }
             ],
-            "footer": "Kugira ngo ugere ku burenganzira ubwo bwose buvugwa haruguru, tumanikire Utumanahano twacu two Kurinda Amakuru kuri [IMERI YA DPO]. Tuzasubiza mu gihe gikwiye nk'uko amabwiriza y'ishyirwa mu bikorwa azashyirwa."
+            "footer": "Kugira ngo ugere ku burenganzira ubwo bwose buvugwa haruguru, tumanikire Utumanahano twacu two Kurinda Amakuru kuri nguzo.official@gmail.com. Tuzasubiza mu gihe gikwiye nk'uko amabwiriza y'ishyirwa mu bikorwa azashyirwa."
           },
           {
             "number": "10",
             "heading": "Kurinda Intimba y'Abana",
-            "body": "Urubuga rugenewe cane abatuzi bafise nibura imyaka 18. Ntitwakusanya kandi ntitubike amakuru bwite y'abana.\n\nNusanga Umukoresha afise munsi y'imyaka 18, tuzahagarika vuba kandi burundu ikonto no gusiba amakuru yose bwite ahuye nayo, nk'uko inshingano zacu mu ngingo ya 3.1 y'Amategeko y'Ikoreshwa n'amahame y'uburindi kurinda abana bishoboka bibitegeka.\n\nNusanga umwana akoresha Urubuga, tanga inkuru vuba biciye kuri [IMERI Y'INKUNGA]."
+            "body": "Urubuga rugenewe cane abatuzi bafise nibura imyaka 18. Ntitwakusanya kandi ntitubike amakuru bwite y'abana.\n\nNusanga Umukoresha afise munsi y'imyaka 18, tuzahagarika vuba kandi burundu ikonto no gusiba amakuru yose bwite ahuye nayo, nk'uko inshingano zacu mu ngingo ya 3.1 y'Amategeko y'Ikoreshwa n'amahame y'uburindi kurinda abana bishoboka bibitegeka.\n\nNusanga umwana akoresha Urubuga, tanga inkuru vuba biciye kuri support.nguzo@gmail.com."
           },
           {
             "number": "11",
@@ -1307,9 +1307,9 @@
             "number": "13",
             "heading": "Itumanahano n'Ikirego",
             "items": [
-              { "label": "Itumanahano ryo Kurinda Amakuru", "text": "{IMERI YA DPO}" },
-              { "label": "Inkunga Rusangi", "text": "{IMERI Y'INKUNGA}" },
-              { "label": "Aderesi y'Iposita", "text": "[Rizuzwa], Bujumbura, Republika y'Uburundi" }
+              { "label": "Itumanahano ryo Kurinda Amakuru", "text": "nguzo.official@gmail.com" },
+              { "label": "Inkunga Rusangi", "text": "support.nguzo@gmail.com" },
+              { "label": "Aderesi", "text": "Bujumbura, Republika y'Uburundi" }
             ],
             "footer": "Nusanga uburenganzira bwawe bw'intimba bwasuzumwe kandi nta cyo twakugiranye ku birebana n'ibibazo byawe, ufite uburenganzira bwo gutanga ikirego kuri Urwego rw'Ubwisanzure rw'Uburundi rwo Kurinda Amakuru igihe rizoshyirwa mu bikorwa mu mategeko y'amakuru ya Nzero 2026."
           }
