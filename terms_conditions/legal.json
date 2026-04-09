@@ -1,0 +1,1320 @@
+{
+  "lastUpdated": "....",
+  "documents": {
+    "terms": {
+      "en": {
+        "title": "Terms of Use",
+        "subtitle": "Governed by the Laws of the Republic of Burundi",
+        "sections": [
+          {
+            "number": "1",
+            "heading": "Definitions",
+            "body": "The following terms, when used in these Terms of Use, have the meanings set out below:",
+            "items": [
+              { "term": "\"Platform\" or \"App\"", "definition": "The Nguzo Marketplace mobile application." },
+              { "term": "\"Services\"", "definition": "The hyper-local peer-to-peer marketplace features provided through the Platform, including listing creation, in-app messaging, location-based discovery, and the Nearby feature." },
+              { "term": "\"User\"", "definition": "Any natural person who creates an account or accesses the Platform." },
+              { "term": "\"Seller\"", "definition": "A User who creates and publishes a listing on the Platform." },
+              { "term": "\"Buyer\"", "definition": "A User who contacts a Seller through the Platform regarding a listed item." },
+              { "term": "\"Trust Score\"", "definition": "An internal reputational metric assigned to each User account, reflecting behavioral history on the Platform." },
+              { "term": "\"Transaction\"", "definition": "Any exchange of goods, money, or services arranged between Users. Transactions occur entirely offline and outside the Platform." },
+              { "term": "\"Content\"", "definition": "All text, photographs, descriptions, messages, or other material submitted by Users to the Platform." },
+              { "term": "\"BBN\"", "definition": "The Bureau Burundais de Normalisation et Contrôle de la Qualité, the national standards body of Burundi responsible for product conformity and quality control." },
+              { "term": "\"ARCT\"", "definition": "The Agence de Régulation et de Contrôle des Télécommunications, the Burundian telecommunications and digital regulatory authority." }
+            ]
+          },
+          {
+            "number": "2",
+            "heading": "Acceptance of Terms",
+            "body": "By creating an account, accessing the Platform, or using any of the Services, you confirm that you have read, understood, and irrevocably agree to be bound by these Terms of Use and our Privacy Policy.\n\nIf you do not agree with any part of these Terms, you must immediately cease all use of the Platform and delete your account.\n\nWe reserve the right to amend these Terms at any time. Material changes will be communicated through in-app notification and, where available, by email. Continued use of the Platform after notification constitutes acceptance of the revised Terms."
+          },
+          {
+            "number": "3",
+            "heading": "Eligibility",
+            "subsections": [
+              {
+                "number": "3.1",
+                "heading": "Age Requirement",
+                "body": "You must be at least 18 years of age to register and use the Platform. We do not knowingly permit use by minors. If we discover that an account belongs to a person under 18, that account will be immediately and permanently suspended and all associated data deleted."
+              },
+              {
+                "number": "3.2",
+                "heading": "Legal Capacity",
+                "body": "You must have full legal capacity under Burundian law to enter into binding contracts. By accepting these Terms, you represent that you possess such capacity."
+              },
+              {
+                "number": "3.3",
+                "heading": "Account Uniqueness",
+                "body": "Each natural person may maintain only one registered account. Operating multiple accounts, or registering on behalf of another person without their explicit consent, constitutes a breach of these Terms."
+              },
+              {
+                "number": "3.4",
+                "heading": "Accuracy of Information",
+                "body": "You must provide accurate, truthful, and current information at registration and maintain the accuracy of that information throughout your use of the Platform. Impersonation of any real or fictitious person is prohibited and constitutes a cybercrime under Article 35 of Law N°1/10 of 16 March 2022 on the Prevention and Repression of Cybercriminality in Burundi, punishable by 2 to 5 years imprisonment and a fine of 10 to 20 million BIF."
+              }
+            ]
+          },
+          {
+            "number": "4",
+            "heading": "Nature of the Platform",
+            "subsections": [
+              {
+                "number": "4.1",
+                "heading": "Hosting Provider — Not a Party to Transactions",
+                "body": "Nguzo Marketplace is a neutral hosting platform. We facilitate connections between Buyers and Sellers. We are not a party to any transaction, negotiation, or agreement between Users. All transactions are conducted exclusively offline, in-person, and at the Users' own initiative and risk."
+              },
+              {
+                "number": "4.2",
+                "heading": "No Payment Processing",
+                "body": "The Platform does not process payments, hold funds, provide escrow services, or facilitate mobile money transfers. We do not provide delivery, shipping, or logistics services of any kind."
+              },
+              {
+                "number": "4.3",
+                "heading": "No Verification of Users or Listings",
+                "body": "We do not verify the identity of Users or the accuracy of listing content, except to the limited extent described in our moderation procedures. Users are responsible for exercising their own judgment before meeting or transacting with another User."
+              },
+              {
+                "number": "4.4",
+                "heading": "User License Grant",
+                "body": "By uploading Content to the Platform, you grant Nguzo Marketplace a non-exclusive, royalty-free, worldwide, sublicensable license to host, store, reproduce, resize, reformat, and display that Content solely for the purpose of providing and improving the Services. This license terminates upon deletion of the Content, subject to the retention obligations described in Section 9 and our Privacy Policy."
+              }
+            ]
+          },
+          {
+            "number": "5",
+            "heading": "User Obligations",
+            "subsections": [
+              {
+                "number": "5.1",
+                "heading": "Prohibited Conduct",
+                "body": "By using the Platform, you agree that you will NOT, under any circumstances:",
+                "items": [
+                  "Post, sell, advertise, or facilitate the sale of any item prohibited under Burundian law or listed in Section 6 of these Terms.",
+                  "Misrepresent the condition, nature, authenticity, or ownership of any listed item.",
+                  "Engage in, facilitate, or solicit any form of fraud, including but not limited to advance payment scams (commonly conducted via Lumicash or other mobile money platforms).",
+                  "Harass, threaten, intimidate, or abuse other Users, whether through the in-app messaging system or by any other means.",
+                  "Publish or transmit content that incites violence, fear, inter-community hatred, or that could damage the reputation of a person, in violation of Article 42 of Law N°1/10 of 16 March 2022, punishable by 5 to 10 years imprisonment and a fine of 5 to 10 million BIF.",
+                  "Steal, collect, or harvest any User's personal data without their consent.",
+                  "Use bots, scrapers, or automated systems to access, copy, or index Platform data.",
+                  "Attempt to hack, reverse engineer, circumvent security measures, or interfere with the operation of the Platform or its underlying systems, in violation of Chapter 3 of Law N°1/10 of 16 March 2022.",
+                  "Create accounts for the purpose of manipulating Trust Scores, flooding the Platform with fake listings, or disrupting other Users."
+                ]
+              },
+              {
+                "number": "5.2",
+                "heading": "Accuracy of Listings",
+                "body": "Sellers must describe items honestly and completely. Concealing known defects, misrepresenting the brand, origin, or condition of an item, or providing false pricing information constitutes a breach of these Terms and may give rise to civil liability under the Burundian Civil Code."
+              },
+              {
+                "number": "5.3",
+                "heading": "In-Person Meeting Safety",
+                "body": "All physical meetings between Users are arranged at the Users' sole discretion and risk. Nguzo Marketplace strongly recommends that Users:",
+                "items": [
+                  "Meet exclusively in public, well-populated locations.",
+                  "Bring a trusted companion to the meeting.",
+                  "Avoid carrying or displaying large sums of cash.",
+                  "Verify the item before completing any payment or transfer.",
+                  "Inform a family member or trusted person of the meeting location and time."
+                ],
+                "footer": "Nguzo Marketplace assumes no liability whatsoever for personal safety, injury, theft, fraud, or any other harm arising from in-person meetings arranged through the Platform."
+              }
+            ]
+          },
+          {
+            "number": "6",
+            "heading": "Prohibited Items and Content",
+            "intro": "The following categories of items and content are strictly and absolutely prohibited on the Platform. This list is indicative and not exhaustive; Nguzo Marketplace may remove any content at its sole discretion.",
+            "subsections": [
+              {
+                "number": "6.1",
+                "heading": "State Security and Weapons",
+                "body": "Prohibited under Articles 54–58 and 59–60 of Law N°1/10 of 16 March 2022:",
+                "items": [
+                  "Firearms, ammunition, explosives, and accessories.",
+                  "Military or police uniforms, badges, insignia, equipment, and gear.",
+                  "Any item whose sale or possession constitutes a threat to national security or public order.",
+                  "Content inciting violence or rebellion against the State."
+                ]
+              },
+              {
+                "number": "6.2",
+                "heading": "Narcotics and Controlled Substances",
+                "body": "Prohibited under Articles 54–58 of Law N°1/10 of 16 March 2022 and the Burundian Penal Code (Law N°1/05 of 22 April 2009), Articles relating to drug trafficking:",
+                "items": [
+                  "Narcotics and illegal drugs of any kind.",
+                  "Drug paraphernalia or items primarily used for the consumption of illegal substances.",
+                  "Prescription medicines sold without a valid license from the Autorité Burundaise de Régulation des Médicaments à Usage Humain et des Aliments (ABREMA)."
+                ]
+              },
+              {
+                "number": "6.3",
+                "heading": "Financial and Commercial Fraud",
+                "body": "Prohibited under the Burundian Penal Code (Law N°1/05 of 22 April 2009):",
+                "items": [
+                  "Counterfeit currency, forged financial instruments, or reproduction of official documents.",
+                  "Facilitation of unauthorized foreign exchange transactions outside licensed channels.",
+                  "Advance payment schemes or any listing designed primarily to extract payment before delivery.",
+                  "Stolen goods. Receiving and reselling stolen property (recel) constitutes a specific offence under the Burundian Penal Code."
+                ]
+              },
+              {
+                "number": "6.4",
+                "heading": "Consumer Protection Violations",
+                "body": "Prohibited under the mandate of the Bureau Burundais de Normalisation et Contrôle de la Qualité (BBN):",
+                "items": [
+                  "Locally manufactured goods subject to compulsory BBN certification standards, offered without the required BBN conformity mark.",
+                  "Products with expired sell-by, use-by, or safety dates.",
+                  "Counterfeit branded goods, imitation products, or items misrepresented as originating from a brand they do not."
+                ]
+              },
+              {
+                "number": "6.5",
+                "heading": "Identity and Harassment",
+                "body": "Prohibited under Articles 35, 61–63 of Law N°1/10 of 16 March 2022:",
+                "items": [
+                  "Any listing or message designed to facilitate identity theft or fraudulent impersonation.",
+                  "Content that harasses, threatens, or targets another individual.",
+                  "Any content involving the exploitation, abuse, or sexual depiction of minors."
+                ]
+              },
+              {
+                "number": "6.6",
+                "heading": "General Prohibition",
+                "body": "Any item or content that is illegal under any applicable Burundian law is prohibited, including items covered by the Burundian Penal Code (Law N°1/05 of 22 April 2009 and subsequent amendments), the Cybercriminality Law (Law N°1/10 of 16 March 2022), and any applicable sectoral regulations."
+              }
+            ]
+          },
+          {
+            "number": "7",
+            "heading": "Moderation, Reporting, and Enforcement",
+            "subsections": [
+              {
+                "number": "7.1",
+                "heading": "Reporting System",
+                "body": "Any User may report a listing, a message, or another User by using the in-app reporting feature. Reports are reviewed and classified according to a priority-based enforcement framework."
+              },
+              {
+                "number": "7.2",
+                "heading": "Enforcement Framework",
+                "body": "Upon receiving a report or identifying a violation through automated or manual review, Nguzo Marketplace applies a priority-based enforcement response ranging from trust score penalties (LOW) to auto-hide with admin review (MEDIUM/HIGH) to instant lock and legal hold (CRITICAL), depending on the category and severity of the violation."
+              },
+              {
+                "number": "7.3",
+                "heading": "Legal Hold",
+                "body": "\"Legal hold\" means the account and all associated data are frozen and preserved in their current state. This data may be provided to the Burundian Police (OPJ) or the ARCT upon presentation of a valid legal warrant or court order, in accordance with Law N°1/10 of 16 March 2022 and applicable Burundian criminal procedure."
+              },
+              {
+                "number": "7.4",
+                "heading": "Trust Score",
+                "body": "The Trust Score is an internal metric reflecting a User's behavioral history on the Platform. It is not a creditworthiness assessment and has no legal effect outside the Platform. Nguzo Marketplace reserves the right to modify or discontinue the Trust Score system at any time without notice."
+              },
+              {
+                "number": "7.5",
+                "heading": "Right to Remove and Suspend",
+                "body": "Nguzo Marketplace reserves the right to remove any Content, suspend any account, or permanently ban any User at its sole discretion, with or without prior notice, and for any reason including conduct that is not expressly listed in these Terms but which we reasonably believe is harmful to Users, the Platform, or the public."
+              }
+            ]
+          },
+          {
+            "number": "8",
+            "heading": "Account Suspension and Deletion",
+            "subsections": [
+              {
+                "number": "8.1",
+                "heading": "Voluntary Deletion",
+                "body": "Users may delete their account at any time via the in-app account settings. Upon requesting deletion:",
+                "items": [
+                  "A 30-day cooling-off period commences, during which the account is deactivated but recoverable.",
+                  "The User is immediately signed out and cannot access the Platform during this period.",
+                  "At the end of the cooling-off period, the account and associated personal data are permanently deleted or anonymized, subject to the retention obligations described in Section 9."
+                ]
+              },
+              {
+                "number": "8.2",
+                "heading": "Enforced Suspension",
+                "body": "Nguzo Marketplace may suspend accounts unilaterally for violations of these Terms. Critical-level violations may result in immediate and permanent termination without prior warning."
+              },
+              {
+                "number": "8.3",
+                "heading": "Effect on Listings and Messages",
+                "body": "Upon account deletion, active listings are removed. Messages may be anonymized (sender identity replaced with 'Deleted User') to protect the integrity of other Users' conversation history, rather than deleted outright."
+              }
+            ]
+          },
+          {
+            "number": "9",
+            "heading": "Data Retention Following Account Deletion",
+            "body": "Notwithstanding account deletion, Nguzo Marketplace may retain the following data for the periods specified: account metadata (UID, email hash) up to 2 years; listings involved in active disputes for the duration of the dispute plus 6 months; chat logs subject to an open report or investigation up to 2 years; crash logs and technical error reports per Google/Firebase policy."
+          },
+          {
+            "number": "10",
+            "heading": "Disclaimer of Liability",
+            "subsections": [
+              {
+                "number": "10.1",
+                "heading": "As-Is Service",
+                "body": "The Platform and all Services are provided \"as is\" and \"as available\" without warranty of any kind, express or implied. We do not warrant that the Platform will be uninterrupted, error-free, or free from malicious content introduced by third parties."
+              },
+              {
+                "number": "10.2",
+                "heading": "Exclusion of Liability",
+                "body": "To the maximum extent permitted by the laws of the Republic of Burundi, Nguzo Marketplace shall not be liable for:",
+                "items": [
+                  "The accuracy, legality, or quality of any listing or User-generated content.",
+                  "Any loss, theft, fraud, injury, or damage arising from an in-person meeting between Users.",
+                  "Financial loss arising from any transaction, payment, or exchange conducted outside the Platform.",
+                  "Service interruptions caused by events beyond our reasonable control, including telecommunications failures, government action, or force majeure events."
+                ]
+              },
+              {
+                "number": "10.3",
+                "heading": "Indemnification",
+                "body": "You agree to indemnify, defend, and hold harmless Nguzo Marketplace, its directors, employees, and agents from and against any claims, damages, losses, costs, and expenses (including legal fees) arising from your breach of these Terms, your violation of any applicable Burundian law, or your conduct on or through the Platform."
+              }
+            ]
+          },
+          {
+            "number": "11",
+            "heading": "Governing Law and Dispute Resolution",
+            "items": [
+              { "label": "Governing Law", "text": "These Terms are governed exclusively by the laws of the Republic of Burundi." },
+              { "label": "Amicable Settlement", "text": "Any dispute arising from or relating to these Terms or the Services shall first be subject to good-faith negotiation between the parties for a period of 30 days." },
+              { "label": "Jurisdiction", "text": "If amicable settlement fails, disputes shall be submitted to the exclusive jurisdiction of the competent courts of Bujumbura, Burundi." }
+            ]
+          },
+          {
+            "number": "12",
+            "heading": "Contact Information",
+            "items": [
+              { "label": "Platform Name", "text": "Nguzo" },
+              { "label": "Registered Address", "text": "[To be completed], Bujumbura, Republic of Burundi" },
+              { "label": "Legal Notices", "text": "{LEGAL EMAIL}" },
+              { "label": "General Support", "text": "{SUPPORT EMAIL}" }
+            ]
+          }
+        ]
+      },
+      "fr": {
+        "title": "NGUZO MARKETPLACE — Conditions d'Utilisation",
+        "subtitle": "Régi par les lois de la République du Burundi",
+        "sections": [
+          {
+            "number": "1",
+            "heading": "Définitions",
+            "body": "Les termes suivants, lorsqu'ils sont utilisés dans les présentes Conditions d'Utilisation, ont les significations définies ci-dessous :",
+            "items": [
+              { "term": "« Plateforme » ou « Application »", "definition": "L'application mobile Nguzo Marketplace." },
+              { "term": "« Services »", "definition": "Les fonctionnalités de la place de marché hyper-locale entre particuliers fournies via la Plateforme, notamment la création d'annonces, la messagerie intégrée, la découverte géolocalisée et la fonction À proximité." },
+              { "term": "« Utilisateur »", "definition": "Toute personne physique qui crée un compte ou accède à la Plateforme." },
+              { "term": "« Vendeur »", "definition": "Un Utilisateur qui crée et publie une annonce sur la Plateforme." },
+              { "term": "« Acheteur »", "definition": "Un Utilisateur qui contacte un Vendeur via la Plateforme au sujet d'un article mis en vente." },
+              { "term": "« Score de Confiance »", "definition": "Un indicateur réputationnel interne attribué à chaque compte Utilisateur, reflétant l'historique comportemental sur la Plateforme." },
+              { "term": "« Transaction »", "definition": "Tout échange de biens, d'argent ou de services organisé entre Utilisateurs. Les transactions se déroulent entièrement hors ligne, en dehors de la Plateforme." },
+              { "term": "« Contenu »", "definition": "Tout texte, photographie, description, message ou autre matériel soumis par les Utilisateurs à la Plateforme." },
+              { "term": "« BBN »", "definition": "Le Bureau Burundais de Normalisation et Contrôle de la Qualité, l'organisme national de normalisation du Burundi chargé de la conformité et du contrôle qualité des produits." },
+              { "term": "« ARCT »", "definition": "L'Agence de Régulation et de Contrôle des Télécommunications, l'autorité burundaise de régulation des télécommunications et du numérique." }
+            ]
+          },
+          {
+            "number": "2",
+            "heading": "Acceptation des Conditions",
+            "body": "En créant un compte, en accédant à la Plateforme ou en utilisant l'un des Services, vous confirmez avoir lu, compris et accepté irrévocablement d'être lié par les présentes Conditions d'Utilisation et notre Politique de Confidentialité.\n\nSi vous n'acceptez pas une quelconque partie de ces Conditions, vous devez immédiatement cesser toute utilisation de la Plateforme et supprimer votre compte.\n\nNous nous réservons le droit de modifier les présentes Conditions à tout moment. Les changements substantiels seront communiqués par notification intégrée à l'application et, le cas échéant, par e-mail. La poursuite de l'utilisation de la Plateforme après notification vaut acceptation des Conditions révisées."
+          },
+          {
+            "number": "3",
+            "heading": "Éligibilité",
+            "subsections": [
+              {
+                "number": "3.1",
+                "heading": "Condition d'Âge",
+                "body": "Vous devez avoir au moins 18 ans pour vous inscrire et utiliser la Plateforme. Nous n'autorisons pas sciemment l'utilisation par des mineurs. Si nous découvrons qu'un compte appartient à une personne de moins de 18 ans, ce compte sera immédiatement et définitivement suspendu et toutes les données associées supprimées."
+              },
+              {
+                "number": "3.2",
+                "heading": "Capacité Juridique",
+                "body": "Vous devez avoir pleine capacité juridique en vertu du droit burundais pour conclure des contrats contraignants. En acceptant les présentes Conditions, vous déclarez posséder une telle capacité."
+              },
+              {
+                "number": "3.3",
+                "heading": "Unicité du Compte",
+                "body": "Chaque personne physique ne peut maintenir qu'un seul compte enregistré. L'exploitation de plusieurs comptes, ou l'inscription au nom d'une autre personne sans son consentement explicite, constitue une violation des présentes Conditions."
+              },
+              {
+                "number": "3.4",
+                "heading": "Exactitude des Informations",
+                "body": "Vous devez fournir des informations exactes, véridiques et à jour lors de l'inscription et maintenir l'exactitude de ces informations tout au long de votre utilisation de la Plateforme. L'usurpation d'identité de toute personne réelle ou fictive est interdite et constitue une cybercriminalité au sens de l'Article 35 de la Loi N°1/10 du 16 mars 2022 sur la Prévention et la Répression de la Cybercriminalité au Burundi, punissable de 2 à 5 ans d'emprisonnement et d'une amende de 10 à 20 millions de BIF."
+              }
+            ]
+          },
+          {
+            "number": "4",
+            "heading": "Nature de la Plateforme",
+            "subsections": [
+              {
+                "number": "4.1",
+                "heading": "Hébergeur — Non-Partie aux Transactions",
+                "body": "Nguzo Marketplace est une plateforme d'hébergement neutre. Nous facilitons les mises en relation entre Acheteurs et Vendeurs. Nous ne sommes partie à aucune transaction, négociation ou accord entre Utilisateurs. Toutes les transactions sont conduites exclusivement hors ligne, en personne, à la seule initiative et aux risques des Utilisateurs."
+              },
+              {
+                "number": "4.2",
+                "heading": "Absence de Traitement des Paiements",
+                "body": "La Plateforme ne traite pas de paiements, ne détient pas de fonds, ne fournit pas de services de séquestre ni ne facilite les transferts d'argent mobile. Nous ne fournissons aucun service de livraison, d'expédition ou de logistique."
+              },
+              {
+                "number": "4.3",
+                "heading": "Absence de Vérification des Utilisateurs ou des Annonces",
+                "body": "Nous ne vérifions pas l'identité des Utilisateurs ni l'exactitude du contenu des annonces, sauf dans la mesure limitée décrite dans nos procédures de modération. Les Utilisateurs sont responsables d'exercer leur propre jugement avant de rencontrer ou de conclure une transaction avec un autre Utilisateur."
+              },
+              {
+                "number": "4.4",
+                "heading": "Licence Accordée par l'Utilisateur",
+                "body": "En téléchargeant du Contenu sur la Plateforme, vous accordez à Nguzo Marketplace une licence non exclusive, libre de redevances, mondiale et sous-licenciable pour héberger, stocker, reproduire, redimensionner, reformater et afficher ce Contenu uniquement aux fins de fourniture et d'amélioration des Services. Cette licence prend fin lors de la suppression du Contenu, sous réserve des obligations de conservation décrites à l'Article 9 et dans notre Politique de Confidentialité."
+              }
+            ]
+          },
+          {
+            "number": "5",
+            "heading": "Obligations des Utilisateurs",
+            "subsections": [
+              {
+                "number": "5.1",
+                "heading": "Comportements Interdits",
+                "body": "En utilisant la Plateforme, vous acceptez de NE PAS, en aucune circonstance :",
+                "items": [
+                  "Publier, vendre, faire la publicité ou faciliter la vente de tout article interdit par la loi burundaise ou listé à l'Article 6 des présentes Conditions.",
+                  "Dénaturer l'état, la nature, l'authenticité ou la propriété de tout article mis en vente.",
+                  "Participer, faciliter ou solliciter toute forme de fraude, y compris, sans s'y limiter, les arnaques au paiement anticipé (communément réalisées via Lumicash ou d'autres plateformes d'argent mobile).",
+                  "Harceler, menacer, intimider ou maltraiter d'autres Utilisateurs, que ce soit via le système de messagerie intégrée ou par tout autre moyen.",
+                  "Publier ou transmettre du contenu incitant à la violence, à la peur, à la haine intercommunautaire, ou susceptible de porter atteinte à la réputation d'une personne, en violation de l'Article 42 de la Loi N°1/10 du 16 mars 2022, punissable de 5 à 10 ans d'emprisonnement et d'une amende de 5 à 10 millions de BIF.",
+                  "Voler, collecter ou récupérer les données personnelles d'un Utilisateur sans son consentement.",
+                  "Utiliser des robots, extracteurs ou systèmes automatisés pour accéder, copier ou indexer les données de la Plateforme.",
+                  "Tenter de pirater, décompiler, contourner les mesures de sécurité ou interférer avec le fonctionnement de la Plateforme ou de ses systèmes sous-jacents, en violation du Chapitre 3 de la Loi N°1/10 du 16 mars 2022.",
+                  "Créer des comptes dans le but de manipuler les Scores de Confiance, d'inonder la Plateforme de fausses annonces, ou de perturber d'autres Utilisateurs."
+                ]
+              },
+              {
+                "number": "5.2",
+                "heading": "Exactitude des Annonces",
+                "body": "Les Vendeurs doivent décrire les articles honnêtement et complètement. Dissimuler des défauts connus, dénaturer la marque, l'origine ou l'état d'un article, ou fournir de fausses informations tarifaires constitue une violation des présentes Conditions et peut engager la responsabilité civile en vertu du Code Civil burundais."
+              },
+              {
+                "number": "5.3",
+                "heading": "Sécurité des Rencontres Physiques",
+                "body": "Toutes les rencontres physiques entre Utilisateurs sont organisées à la seule discrétion et aux risques des Utilisateurs. Nguzo Marketplace recommande vivement aux Utilisateurs de :",
+                "items": [
+                  "Se rencontrer exclusivement dans des lieux publics et fréquentés.",
+                  "Amener une personne de confiance à la rencontre.",
+                  "Éviter de porter ou d'afficher de grosses sommes d'argent liquide.",
+                  "Vérifier l'article avant de procéder à tout paiement ou transfert.",
+                  "Informer un membre de la famille ou une personne de confiance du lieu et de l'heure de la rencontre."
+                ],
+                "footer": "Nguzo Marketplace décline toute responsabilité en ce qui concerne la sécurité personnelle, les blessures, les vols, les fraudes ou tout autre préjudice découlant de rencontres physiques organisées via la Plateforme."
+              }
+            ]
+          },
+          {
+            "number": "6",
+            "heading": "Articles et Contenus Interdits",
+            "intro": "Les catégories suivantes d'articles et de contenus sont strictement et absolument interdites sur la Plateforme. Cette liste est indicative et non exhaustive ; Nguzo Marketplace peut supprimer tout contenu à sa seule discrétion.",
+            "subsections": [
+              {
+                "number": "6.1",
+                "heading": "Sécurité de l'État et Armes",
+                "body": "Interdits en vertu des Articles 54–58 et 59–60 de la Loi N°1/10 du 16 mars 2022 :",
+                "items": [
+                  "Armes à feu, munitions, explosifs et accessoires.",
+                  "Uniformes, insignes, équipements et matériels militaires ou de police.",
+                  "Tout article dont la vente ou la détention constitue une menace pour la sécurité nationale ou l'ordre public.",
+                  "Contenus incitant à la violence ou à la rébellion contre l'État."
+                ]
+              },
+              {
+                "number": "6.2",
+                "heading": "Stupéfiants et Substances Contrôlées",
+                "body": "Interdits en vertu des Articles 54–58 de la Loi N°1/10 du 16 mars 2022 et du Code Pénal burundais (Loi N°1/05 du 22 avril 2009), articles relatifs au trafic de stupéfiants :",
+                "items": [
+                  "Stupéfiants et drogues illicites de toute nature.",
+                  "Paraphernalia de drogues ou articles utilisés principalement pour la consommation de substances illicites.",
+                  "Médicaments sur ordonnance vendus sans licence valide de l'Autorité Burundaise de Régulation des Médicaments à Usage Humain et des Aliments (ABREMA)."
+                ]
+              },
+              {
+                "number": "6.3",
+                "heading": "Fraude Financière et Commerciale",
+                "body": "Interdits en vertu du Code Pénal burundais (Loi N°1/05 du 22 avril 2009) :",
+                "items": [
+                  "Fausse monnaie, instruments financiers falsifiés ou reproduction de documents officiels.",
+                  "Facilitation de transactions de change non autorisées en dehors des canaux agréés.",
+                  "Systèmes de paiement anticipé ou toute annonce conçue principalement pour obtenir un paiement avant livraison.",
+                  "Biens volés. La réception et la revente de biens volés (recel) constitue une infraction spécifique au Code Pénal burundais."
+                ]
+              },
+              {
+                "number": "6.4",
+                "heading": "Violations de la Protection des Consommateurs",
+                "body": "Interdits en vertu du mandat du Bureau Burundais de Normalisation et Contrôle de la Qualité (BBN) :",
+                "items": [
+                  "Produits manufacturés localement soumis aux normes de certification BBN obligatoires, proposés sans la marque de conformité BBN requise.",
+                  "Produits dont la date de vente, d'utilisation ou de sécurité est expirée.",
+                  "Produits de marque contrefaits, articles imitation ou articles présentés faussement comme émanant d'une marque qu'ils ne représentent pas."
+                ]
+              },
+              {
+                "number": "6.5",
+                "heading": "Identité et Harcèlement",
+                "body": "Interdits en vertu des Articles 35, 61–63 de la Loi N°1/10 du 16 mars 2022 :",
+                "items": [
+                  "Toute annonce ou message conçu pour faciliter le vol d'identité ou l'usurpation frauduleuse.",
+                  "Contenu qui harcèle, menace ou cible un individu.",
+                  "Tout contenu impliquant l'exploitation, l'abus ou la représentation sexuelle de mineurs."
+                ]
+              },
+              {
+                "number": "6.6",
+                "heading": "Interdiction Générale",
+                "body": "Tout article ou contenu illégal en vertu de toute loi burundaise applicable est interdit, y compris les articles couverts par le Code Pénal burundais (Loi N°1/05 du 22 avril 2009 et modifications ultérieures), la Loi sur la Cybercriminalité (Loi N°1/10 du 16 mars 2022) et toute réglementation sectorielle applicable."
+              }
+            ]
+          },
+          {
+            "number": "7",
+            "heading": "Modération, Signalement et Exécution",
+            "subsections": [
+              {
+                "number": "7.1",
+                "heading": "Système de Signalement",
+                "body": "Tout Utilisateur peut signaler une annonce, un message ou un autre Utilisateur en utilisant la fonction de signalement intégrée. Les signalements sont examinés et classifiés selon un cadre d'exécution basé sur les priorités."
+              },
+              {
+                "number": "7.2",
+                "heading": "Cadre d'Exécution",
+                "body": "Suite à la réception d'un signalement ou à l'identification d'une violation par examen automatisé ou manuel, Nguzo Marketplace applique un cadre de réponse basé sur les priorités, allant des pénalités de score de confiance (FAIBLE) au masquage automatique avec révision administrative (MOYEN/ÉLEVÉ), jusqu'au verrouillage instantané et à la mise en suspens légale (CRITIQUE), selon la catégorie et la gravité de la violation."
+              },
+              {
+                "number": "7.3",
+                "heading": "Mise en Suspens Légale",
+                "body": "La « mise en suspens légale » signifie que le compte et toutes les données associées sont gelés et conservés dans leur état actuel. Ces données peuvent être fournies à la Police burundaise (OPJ) ou à l'ARCT sur présentation d'un mandat légal valide ou d'une ordonnance du tribunal, conformément à la Loi N°1/10 du 16 mars 2022 et à la procédure pénale burundaise applicable."
+              },
+              {
+                "number": "7.4",
+                "heading": "Score de Confiance",
+                "body": "Le Score de Confiance est un indicateur interne reflétant l'historique comportemental d'un Utilisateur sur la Plateforme. Il ne s'agit pas d'une évaluation de solvabilité et il n'a aucun effet juridique en dehors de la Plateforme. Nguzo Marketplace se réserve le droit de modifier ou d'interrompre le système de Score de Confiance à tout moment sans préavis."
+              },
+              {
+                "number": "7.5",
+                "heading": "Droit de Suppression et de Suspension",
+                "body": "Nguzo Marketplace se réserve le droit de supprimer tout Contenu, suspendre tout compte ou bannir définitivement tout Utilisateur à sa seule discrétion, avec ou sans préavis, et pour toute raison, y compris un comportement non expressément listé dans les présentes Conditions mais que nous estimons raisonnablement préjudiciable aux Utilisateurs, à la Plateforme ou au public."
+              }
+            ]
+          },
+          {
+            "number": "8",
+            "heading": "Suspension et Suppression de Compte",
+            "subsections": [
+              {
+                "number": "8.1",
+                "heading": "Suppression Volontaire",
+                "body": "Les Utilisateurs peuvent supprimer leur compte à tout moment via les paramètres du compte dans l'application. Lors d'une demande de suppression :",
+                "items": [
+                  "Une période de rétractation de 30 jours commence, pendant laquelle le compte est désactivé mais récupérable.",
+                  "L'Utilisateur est immédiatement déconnecté et ne peut pas accéder à la Plateforme durant cette période.",
+                  "À l'issue de la période de rétractation, le compte et les données personnelles associées sont définitivement supprimés ou anonymisés, sous réserve des obligations de conservation décrites à l'Article 9."
+                ]
+              },
+              {
+                "number": "8.2",
+                "heading": "Suspension Forcée",
+                "body": "Nguzo Marketplace peut suspendre des comptes unilatéralement pour violation des présentes Conditions. Les violations de niveau critique peuvent entraîner une résiliation immédiate et définitive sans avertissement préalable."
+              },
+              {
+                "number": "8.3",
+                "heading": "Effet sur les Annonces et les Messages",
+                "body": "Lors de la suppression d'un compte, les annonces actives sont retirées. Les messages peuvent être anonymisés (l'identité de l'expéditeur remplacée par « Utilisateur Supprimé ») pour protéger l'intégrité de l'historique de conversation des autres Utilisateurs, plutôt que d'être définitivement supprimés."
+              }
+            ]
+          },
+          {
+            "number": "9",
+            "heading": "Conservation des Données Après Suppression du Compte",
+            "body": "Nonobstant la suppression du compte, Nguzo Marketplace peut conserver les données suivantes pour les durées précisées : métadonnées du compte (UID, hash de l'e-mail) jusqu'à 2 ans ; annonces impliquées dans des litiges actifs pour la durée du litige plus 6 mois ; journaux de chat faisant l'objet d'un signalement ou d'une enquête en cours jusqu'à 2 ans ; journaux de plantage et rapports d'erreurs techniques selon la politique de Google/Firebase."
+          },
+          {
+            "number": "10",
+            "heading": "Exclusion de Responsabilité",
+            "subsections": [
+              {
+                "number": "10.1",
+                "heading": "Service tel quel",
+                "body": "La Plateforme et tous les Services sont fournis « tels quels » et « tels que disponibles » sans aucune garantie, expresse ou implicite. Nous ne garantissons pas que la Plateforme sera ininterrompue, exempte d'erreurs ou préservée de tout contenu malveillant introduit par des tiers."
+              },
+              {
+                "number": "10.2",
+                "heading": "Exclusion de Responsabilité",
+                "body": "Dans la mesure maximale permise par les lois de la République du Burundi, Nguzo Marketplace ne sera pas responsable de :",
+                "items": [
+                  "L'exactitude, la légalité ou la qualité de toute annonce ou contenu généré par les Utilisateurs.",
+                  "Toute perte, vol, fraude, blessure ou dommage résultant d'une rencontre physique entre Utilisateurs.",
+                  "Toute perte financière résultant d'une transaction, d'un paiement ou d'un échange effectué en dehors de la Plateforme.",
+                  "Les interruptions de service causées par des événements hors de notre contrôle raisonnable, notamment les pannes de télécommunications, l'action gouvernementale ou les cas de force majeure."
+                ]
+              },
+              {
+                "number": "10.3",
+                "heading": "Indemnisation",
+                "body": "Vous acceptez d'indemniser, de défendre et de dégager de toute responsabilité Nguzo Marketplace, ses dirigeants, employés et agents contre toute réclamation, dommage, perte, coût et dépense (y compris les honoraires d'avocat) résultant de votre violation des présentes Conditions, de toute loi burundaise applicable, ou de votre comportement sur ou via la Plateforme."
+              }
+            ]
+          },
+          {
+            "number": "11",
+            "heading": "Droit Applicable et Résolution des Litiges",
+            "items": [
+              { "label": "Droit Applicable", "text": "Les présentes Conditions sont régies exclusivement par les lois de la République du Burundi." },
+              { "label": "Règlement Amiable", "text": "Tout litige découlant des présentes Conditions ou des Services ou s'y rapportant sera d'abord soumis à une négociation de bonne foi entre les parties pour une période de 30 jours." },
+              { "label": "Juridiction", "text": "En cas d'échec du règlement amiable, les litiges seront soumis à la compétence exclusive des tribunaux compétents de Bujumbura, Burundi." }
+            ]
+          },
+          {
+            "number": "12",
+            "heading": "Coordonnées",
+            "items": [
+              { "label": "Nom de la Plateforme", "text": "Nguzo" },
+              { "label": "Adresse Enregistrée", "text": "[À compléter], Bujumbura, République du Burundi" },
+              { "label": "Notifications Légales", "text": "{EMAIL JURIDIQUE}" },
+              { "label": "Assistance Générale", "text": "{EMAIL SUPPORT}" }
+            ]
+          }
+        ]
+      },
+      "rn": {
+        "title": "NGUZO MARKETPLACE — Amategeko y'Ikoreshwa",
+        "subtitle": "Ategekwa n'amategeko ya Republika y'Uburundi",
+        "sections": [
+          {
+            "number": "1",
+            "heading": "Ibisobanuro",
+            "body": "Amagambo akurikira, iyo akoreshwa muri aya Mategeko y'Ikoreshwa, afite ibisobanuro bikurikira:",
+            "items": [
+              { "term": "« Urubuga » canke « Porogramu »", "definition": "Porogramu ya telefoni ngurukanabumenyi ya Nguzo Marketplace." },
+              { "term": "« Serivisi »", "definition": "Ibikorwa vy'isoko hagati y'abantu ku rwego rw'agace karangwa hamwe n'ikoreshwa rya GPS, nk'ugutura amatangazo, gutumirana mu porogramu, ubushakashatsi bushingiye ku mwanya, n'ikintu c'Hafi." },
+              { "term": "« Umukoresha »", "definition": "Umuntu wese w'umuntu kw'isi wiyandikisha konto canke agera ku Rubuga." },
+              { "term": "« Umuguzi w'ibicuruzwa »", "definition": "Umukoresha atura no gusarangaza itangazo ku Rubuga." },
+              { "term": "« Umuguzi »", "definition": "Umukoresha atumanikira Umuguzi w'ibicuruzwa biciye ku Rubuga ku birebana n'ingingo yatanzwe." },
+              { "term": "« Amanota y'Icizigiro »", "definition": "Ingero y'imbere y'ukwizigirwa ziri ku konto ya buri Mukoresha, zirerekana akamaro k'ingendo mu Rubuga." },
+              { "term": "« Uguhana »", "definition": "Impinduka yose y'ibicuruzwa, amafaranga, canke serivisi yateguriwe hagati y'Abakoresha. Uguhana kugira ngo kwose gukorwa hanze y'umurongo no hanze y'Urubuga." },
+              { "term": "« Ibikubiye »", "definition": "Inyandiko zose, amafoto, ibisobanuro, ubutumwa, canke ibindi bintu bisabwe n'Abakoresha ku Rubuga." },
+              { "term": "« BBN »", "definition": "Bureau Burundais de Normalisation et Contrôle de la Qualité, inzego y'igihugu y'uburundi ishinzwe kugumana ibicuruzwa n'ugusuzuma ingene ibicuruzwa bimeze." },
+              { "term": "« ARCT »", "definition": "Agence de Régulation et de Contrôle des Télécommunications, inzego z'Uburundi zishinzwe gutegura telefoni n'itumanaho mu buryo bwa sumbano." }
+            ]
+          },
+          {
+            "number": "2",
+            "heading": "Kwemera Amategeko",
+            "body": "Mu gufungura konto, kwinjira ku Rubuga, canke gukoresha serivisi iyo ari yo yose, wemereza ko wasomye, wumvise, kandi uremera nta gusubira inyuma kwemezwa n'aya Mategeko y'Ikoreshwa na Politike yacu y'Intimba.\n\nNusaba ko utemeye igice ico ari co cose c'aya Mategeko, ugomba vuba guheba ikoreshwa ryose rw'Urubuga no gusiba konto yawe.\n\nTwirinda gutunga uburenganzira bwo guhindura aya Mategeko igihe cose. Impinduka z'ingenzi zizomenyeshwa biciye ku menyesha mu porogramu no, iyo bishoboka, biciye kuri imeri. Gukurikiza ikoreshwa rw'Urubuga nyuma yo kumenyeshwa bisobanura kwemera Amategeko ahindutse."
+          },
+          {
+            "number": "3",
+            "heading": "Uburenganzira bwo Gukoresha",
+            "subsections": [
+              {
+                "number": "3.1",
+                "heading": "Imyaka isabwa",
+                "body": "Ugomba kuba ufise nibura imyaka 18 kugira ngo wiyandikishe no gukoresha Urubuga. Ntitwemereza gukoresha n'abo bato. Nusanga konto iri mu muntu uri munsi y'imyaka 18, iyo konto izahagarikwa ako kanya burundu, kandi amakuru yose ahuye nayo asibwa."
+              },
+              {
+                "number": "3.2",
+                "heading": "Ubushobozi bwa Gahunda",
+                "body": "Ugomba kuba ufise ubushobozi bwose bwa gahunda mu mategeko y'Uburundi kugira ngo winjire mu masezerano. Mu kwemera aya Mategeko, uvuga ko ufise ubushobozi nk'ubwo."
+              },
+              {
+                "number": "3.3",
+                "heading": "Ubwiyemezamizi bw'Ikonto",
+                "body": "Umuntu wese w'umuntu w'umubiri ashobora gutunga konto imwe yiyandikishijwe. Gukoresha amakonto menshi, canke kwiyandikisha mu izina ry'undi muntu atari we wemeye, biranga kuva mu mategeko."
+              },
+              {
+                "number": "3.4",
+                "heading": "Ukuri kw'Amakuru",
+                "body": "Ugomba gutanga amakuru y'ukuri, ya mvaho, n'ayavugwa mu gihe c'iyandikwa no kurinzira ukuri kw'amakuru ayo mu gihe cose c'ikoreshwa rwawe rw'Urubuga. Gushira mu gacerere umuntu w'ukuri canke wo mu gacimbizi birabujijwe kandi bigize ubwiyandarike mu buryo bwa sumbano nk'uko bikubiye mu Ngingo ya 35 y'Itegeko Nshinga N°1/10 ryo ku wa 16 Ntwarante 2022 rigenga Iyaburizwa no Guhanwa kw'Ubwiyandarike mu buryo bwa sumbano mu Burundi, bihanwa n'imyaka 2 gushika 5 y'igifungo n'ihazabu ryo hagati ya miliyoni 10 na 20 BIF."
+              }
+            ]
+          },
+          {
+            "number": "4",
+            "heading": "Kamere y'Urubuga",
+            "subsections": [
+              {
+                "number": "4.1",
+                "heading": "Umwimikira — Atari Uwafashe Uruhande mu Kugurisha",
+                "body": "Nguzo Marketplace ni urubuga rw'umwimikira rutabaye uruhande. Dutera inkunga amasezerano hagati y'Abatuzi n'Abaguzi. Nta co dufitaniye n'uguhana, indwi, canke amasezerano hagati y'Abakoresha. Uguhana kwose gukorwa hanze y'imbuga, mu mwanya, kandi n'uwatangiye kandi n'inaniza z'Abakoresha."
+              },
+              {
+                "number": "4.2",
+                "heading": "Nta Kugenzura Amafaranga",
+                "body": "Urubuga ntirugenzura amafaranga, ntirugumana inkunga, ntiriha serivisi z'uburinzi, canke ntiriteza imbere gucana amafaranga biciye kuri telefoni. Ntiritanga serivisi zo gutura, kohereza, canke ibindi bikorwa vyo kohereza ibintu."
+              },
+              {
+                "number": "4.3",
+                "heading": "Nta Kugenzura Abakoresha canke Amatangazo",
+                "body": "Ntidugenzura indangamuntu z'Abakoresha canke ukuri kw'ibikubiye mu matangazo, uretse mu rugero ruto rweretswe mu nzira zacu zo gukurikira. Abakoresha ni bo bafata inshingano zo gukoresha ubushakashatsi bwabo mbere yo gusanganira canke kugurisha n'umukoresha wundi."
+              },
+              {
+                "number": "4.4",
+                "heading": "Intorwa Nkubitsa y'Umukoresha",
+                "body": "Mu gutura Ibikubiye ku Rubuga, uha Nguzo Marketplace intorwa nkubitsa itagira gutunga, itabazwa, y'isi yose, ishorwa munsi kugira ngo bimikire, bikike, bisubirirwe, bihinduwe ubunini, bihinduwe inyandiko, kandi bishishwe ibyo Ibikubiye gusa mu ntumbero yo gutanga no kunozanya Serivisi. Iyi ntorwa irangira iyo Ibikubiye bisibwe, bivuye ku mabajwe y'ukugumana aseretswe mu Ngingo ya 9 no mu Politike yacu y'Intimba."
+              }
+            ]
+          },
+          {
+            "number": "5",
+            "heading": "Inshingano z'Abakoresha",
+            "subsections": [
+              {
+                "number": "5.1",
+                "heading": "Ingendo Zibujijwe",
+                "body": "Mu gukoresha Urubuga, uremera ko UZOBA UTAZOKORA, mu nzira iyo ari yo yose:",
+                "items": [
+                  "Gutura, kugurisha, gutangaza, canke gutera inkunga kugurisha ingingo iyo ari yo yose yabujijwe n'amategeko y'Uburundi canke izitajwe mu Ngingo ya 6 y'aya Mategeko.",
+                  "Gunaniza ingene ingingo itanzwe imeze, kamere yayo, ukuri kwayo, canke ubuposita bwayo.",
+                  "Kugira uruhande, gutera inkunga, canke gusaba uburyozwa bwose bwo kunyaga, harimo, ariko ntibirangirire, ingurane z'ishuru ryo mbere (zikunda gukorwa biciye kuri Lumicash canke izindi mbuga z'amafaranga ya telefoni).",
+                  "Gukanda, guhindira, gusabira, canke gutera inkunga Abakoresha bandi, haba biciye ku bubiko bw'ubutumwa mu porogramu canke mu buryo ubwo bwose.",
+                  "Gutura canke kohereza ibikubiye bishimishiriza agahinda, ubwoba, urwanko hagati y'amashirahamwe, canke bibuza umuntu gufata neza izina, mu gusuzuma Ingingo ya 42 y'Itegeko Nshinga N°1/10 ryo ku wa 16 Ntwarante 2022, bihanwa n'imyaka 5 gushika 10 y'igifungo n'ihazabu ryo hagati ya miliyoni 5 na 10 BIF.",
+                  "Kwiba, gukusanya, canke gushaka amakuru bwite y'Umukoresha atari we we wemeye.",
+                  "Gukoresha ibicuma, ibikoresho vyo gutonora, canke inzira zikora zokora kugira ngo zinjire, kopere, canke zerekane amakuru y'Urubuga.",
+                  "Kugira ngo uhagaragaze, guhindura nka za mudasobwa, gukimba ingoro z'umutekano, canke guhagarika ikorwa rya Urubuga canke inzira zarwo, mu gusuzuma Igice ca 3 c'Itegeko Nshinga N°1/10 ryo ku wa 16 Ntwarante 2022.",
+                  "Gufungura amakonto mu ntumbero yo gukina Amanota y'Icizigiro, kuzura Urubuga n'amatangazo ya nkamwe, canke guhungabanya Abakoresha bandi."
+                ]
+              },
+              {
+                "number": "5.2",
+                "heading": "Ukuri kw'Amatangazo",
+                "body": "Abaguzi b'ibicuruzwa bagomba kuvuga ivy'ingingo neza no bugime. Guhisha amakemwa azwi, gunaniza impano, intandaro, canke ingene ingingo itanzwe imeze, canke gutanga amakuru y'agaciro ya nkamwe bisobanura kuvunanako aya Mategeko kandi bishobora kubyara inshingano z'ubutunzi mu mategeko y'agaciro ya Uburundi."
+              },
+              {
+                "number": "5.3",
+                "heading": "Umutekano mu Gusanganira",
+                "body": "Amahuriro yose y'umwanya hagati y'Abakoresha yategurwa ku bushake bwabo no kuzimanaho kwabo. Nguzo Marketplace irashigikira cane Abakoresha:",
+                "items": [
+                  "Gusanganira mu mwanya wa rubanda, aho abantu benshi baba.",
+                  "Kuza n'umuntu wizigirwa mu isanganiro.",
+                  "Kwirinda gutunga canke kwerekana amafaranga menshi.",
+                  "Kugenzura ingingo mbere yo gusoza amafaranga canke gutunga.",
+                  "Kumenyesha umuntu w'umuryango canke wizigirwa ahantu no mu gihe c'isanganiro."
+                ],
+                "footer": "Nguzo Marketplace ntifata inshingano iyo ari yo yose ku mutekano w'umwanya, ivuniro, ubushurutso, ubunyamacakubiri, canke ingorane iyo ari yo yose ivuye mu makoraniro y'umwanya yateguriwe biciye ku Rubuga."
+              }
+            ]
+          },
+          {
+            "number": "6",
+            "heading": "Ibicuruzwa n'Ibikubiye Bibujijwe",
+            "intro": "Inzego zikurikira z'ibicuruzwa n'ibikubiye zibujijwe cane kandi burundu ku Rubuga. Iyi rutonde ni isobanuro kandi ntiguye: Nguzo Marketplace irashobora gukura ibikubiye biyo bishobokeza.",
+            "subsections": [
+              {
+                "number": "6.1",
+                "heading": "Umutekano wa Leta n'Intwaro",
+                "body": "Bibujijwe mu Ngingo 54–58 na 59–60 z'Itegeko Nshinga N°1/10 ryo ku wa 16 Ntwarante 2022:",
+                "items": [
+                  "Intwaro, ibibundo, ibitumbatumba, n'ibikoresho bivyo.",
+                  "Imvura, ingerakamaro, impeta, ibikoresho, n'ibikoresho vya gisirikari canke polisi.",
+                  "Ingingo iyo ari yo yose kugurisha canke kuyigumana bigize ingorane ku mutekano w'igihugu canke kimuli.",
+                  "Ibikubiye bishimishiriza agahinda canke ubuhirikano bushinga leta."
+                ]
+              },
+              {
+                "number": "6.2",
+                "heading": "Inzoga z'Ibujijwe n'Ibintu Birinzwe",
+                "body": "Bibujijwe mu Ngingo 54–58 z'Itegeko Nshinga N°1/10 ryo ku wa 16 Ntwarante 2022 na Codicile Pénal y'Uburundi (Itegeko Nshinga N°1/05 ryo ku wa 22 Ndamukiza 2009), ingingo zirebana n'ubucuruzi bw'inzoga zibujijwe:",
+                "items": [
+                  "Ibintu bica umutima n'inzoga zibujijwe z'ubwoko ubwo bwose.",
+                  "Ibikoresho vy'inzoga zibujijwe canke ibintu bikoreshwa cane mu gusogota ibintu bibujijwe.",
+                  "Imiti ishakwa biciye ku buvuzi gurishwa atari ubuvuzi bukwiye bw'Autorité Burundaise de Régulation des Médicaments à Usage Humain et des Aliments (ABREMA)."
+                ]
+              },
+              {
+                "number": "6.3",
+                "heading": "Ubunyamacakubiri bw'Imari n'Ubucuruzi",
+                "body": "Bibujijwe mu mategeko ya Codicile Pénal y'Uburundi (Itegeko Nshinga N°1/05 ryo ku wa 22 Ndamukiza 2009):",
+                "items": [
+                  "Amafaranga ya nkamwe, ibikoresho vy'imari bihuzwe, canke kugwiritha inyandiko z'akamaro.",
+                  "Gutera inkunga amasezerano ya divize atemewe hanze y'inzira zemerewe.",
+                  "Inzira z'ingurane z'ishuru ryo mbere canke itangazo ryo gusa ryeguriwe gutunga amafaranga mbere yo gutanga.",
+                  "Ibicuruzwa vyibiwe. Kwakira no kugurisha ibicuruzwa vyibiwe (recel) bigize igitero kiharurirwa ku mategeko ya Codicile Pénal y'Uburundi."
+                ]
+              },
+              {
+                "number": "6.4",
+                "heading": "Gusuzuma Uburenganzira bw'Abatumiwe",
+                "body": "Bibujijwe mu mategeko y'inshingano za Bureau Burundais de Normalisation et Contrôle de la Qualité (BBN):",
+                "items": [
+                  "Ibicuruzwa bitunganijwe mu gihugu bisabwa irebwa rya BBN, bikenewe hatari ikibanza c'ukugwiritha BBN.",
+                  "Ibicuruzwa birangiye itariki yo kugurisha, gukoresha, canke umutekano.",
+                  "Ibicuruzwa bya nkamwe vya mponge, ibicuruzwa bihananye, canke ibicuruzwa bisobanurwa nabi nk'ivuye kuri mponge batari bo."
+                ]
+              },
+              {
+                "number": "6.5",
+                "heading": "Indangamuntu n'Ugukanda",
+                "body": "Bibujijwe mu Ngingo 35, 61–63 z'Itegeko Nshinga N°1/10 ryo ku wa 16 Ntwarante 2022:",
+                "items": [
+                  "Itangazo riyo ari ryo ryose canke ubutumwa buteguriwe gutera inkunga ubushurutso bw'indangamuntu canke kugabisha mu buryo bwa nkamwe.",
+                  "Ibikubiye bikanda, bihindira, canke bishinja umuntu runaka.",
+                  "Ibikubiye birebana n'ikoreshwa mbi, gutera ingorane, canke kwumenyesha mu buryo bw'ubusambanyi bw'abana."
+                ]
+              },
+              {
+                "number": "6.6",
+                "heading": "Ikibujijwe Rusangi",
+                "body": "Ingingo iyo ari yo yose canke ibikubiye binya amategeko abishe y'Uburundi bibujijwe, harimo ibintu bibujijwe mu mategeko ya Codicile Pénal y'Uburundi (Itegeko Nshinga N°1/05 ryo ku wa 22 Ndamukiza 2009 n'impinduka zakurikiye), Itegeko ryo Guhanwa kw'Ubwiyandarike mu buryo bwa sumbano (Itegeko Nshinga N°1/10 ryo ku wa 16 Ntwarante 2022), n'amategeko yose ashoboka y'urwego."
+              }
+            ]
+          },
+          {
+            "number": "7",
+            "heading": "Ugukurikira, Gutanga Inkuru, no Gushyira mu Bikorwa",
+            "subsections": [
+              {
+                "number": "7.1",
+                "heading": "Inzira yo Gutanga Inkuru",
+                "body": "Umukoresha wese arashobora gutanga inkuru ku tangazo, ubutumwa, canke Umukoresha wundi mu gukoresha ikintu co gutanga inkuru mu porogramu. Inkuru zisuzumwa kandi ziharurwa nk'uko ugukurikira bishingiye ku mpaka zigenga."
+              },
+              {
+                "number": "7.2",
+                "heading": "Ingero yo Gushyira mu Bikorwa",
+                "body": "Umukiriya w'inkuru canke kumenya gusuzuma biciye mu buryo bwakoze canke bw'umuntu, Nguzo Marketplace ikoresha ingero y'igisubizo ishingiye ku mpaka, kuva ku bihano vya amanota y'icizigiro (NTOYA) gushika mu gusunika vuba n'isuzumwa ry'inzego (HAGATI/HEJURU), gushika ku gufunga vuba no gutunga mu buryo bw'amategeko (IKIMERO), nk'uko ibice n'uburemere bw'isuzumwa bibitegeka."
+              },
+              {
+                "number": "7.3",
+                "heading": "Gutunga mu Buryo bw'Amategeko",
+                "body": "« Gutunga mu buryo bw'amategeko » bisobanura ko ikonto n'amakuru yose ahuye nayo yafunzwe kandi yarinzwe mu nzira zabo z'ubu. Ayo makuru ashobora gutangwa kuri Polisi y'Uburundi (OPJ) canke ARCT hahejeje gutanga irondoka isanzwe canke itegeko ry'urukiko, nk'uko Itegeko Nshinga N°1/10 ryo ku wa 16 Ntwarante 2022 n'inzira zishoboka z'ubuhemu bw'Uburundi bibitegeka."
+              },
+              {
+                "number": "7.4",
+                "heading": "Amanota y'Icizigiro",
+                "body": "Amanota y'Icizigiro ni ingero y'imbere irerekana akamaro k'ingendo z'Umukoresha ku Rubuga. Ntabwo ari isuzumwa ry'ubushobozi bw'imari kandi ntafite ingaruka z'amategeko hanze y'Urubuga. Nguzo Marketplace iririnda gutunga uburenganzira bwo guhindura canke guhagarika inzira y'Amanota y'Icizigiro igihe cose atari na rumwe nje y'itangazo."
+              },
+              {
+                "number": "7.5",
+                "heading": "Uburenganzira bwo Gukura no Guhagarika",
+                "body": "Nguzo Marketplace iririnda gutunga uburenganzira bwo gukura Ibikubiye biyo, guhagarika ikonto riyo ari ryo ryose, canke gubuza burundu Umukoresha wese n'ubushake bwayo bwite, hamwe canke hatari na rumwe itangazo riherutse, no mu mpamvu iyo ari yo yose, harimo ingendo izitajwe cane mu mategeko ariko twibwira ko inyujije Abakoresha, Urubuga, canke rusangi."
+              }
+            ]
+          },
+          {
+            "number": "8",
+            "heading": "Guhagarika no Gusiba Ikonto",
+            "subsections": [
+              {
+                "number": "8.1",
+                "heading": "Gusiba ku Bushake",
+                "body": "Abakoresha barashobora gusiba ikonto ryabo igihe cose biciye ku ngorwa z'ikonto mu porogramu. Iyo basaba gusiba:",
+                "items": [
+                  "Igihe co gusubira inyuma c'iminsi 30 gitangura, mu gihe ikonto rihagaritswe ariko rishobora gusubizwa.",
+                  "Umukoresha afungurwa ako kanya kandi ntashobora kwinjira ku Rubuga mu gihe ico.",
+                  "Irangira ry'igihe co gusubira inyuma, ikonto n'amakuru bwite ahuye nayo asibwa burundu canke asigwa hatari umuntu, bivuye ku mabajwe y'ukugumana aseretswe mu Ngingo ya 9."
+                ]
+              },
+              {
+                "number": "8.2",
+                "heading": "Guhagarika Gushingirwa",
+                "body": "Nguzo Marketplace irashobora guhagarika amakonto mu buryo bw'isi yose kubera gusuzuma aya Mategeko. Gusuzuma ku rwego rw'ikimero bishobora gutuma hafatwa ingingo yo guhagarika vuba burundu atari na rumwe itangazo riherutse."
+              },
+              {
+                "number": "8.3",
+                "heading": "Ingaruka ku Matangazo no ku Butumwa",
+                "body": "Ikonto risibwe, amatangazo akora akurwa. Ubutumwa bushobora kwigwa hamwe (indangamuntu y'uwoherereje isubirwa na 'Umukoresha Yasibwe') kugira ngo bivuye neza inzira z'ikiganiro c'Abakoresha bandi, aho kwisibwa burundu."
+              }
+            ]
+          },
+          {
+            "number": "9",
+            "heading": "Ukugumana Amakuru Nyuma yo Gusiba Ikonto",
+            "body": "Naho ikonto risibwe, Nguzo Marketplace irashobora kugumana amakuru akurikira mu bihe bivugwa: metadata y'ikonto (UID, hash y'imeri) gushika imyaka 2; amatangazo ashyizwe mu impaka z'akindi gihe mu gihe c'impaka n'amezi 6; imilango ya chat iri mu nkuru zifunguye canke isuzumwa gushika imyaka 2; amateka y'ihungabana n'indirimbo z'amakosa ya tekiniki nk'uko politike ya Google/Firebase ibitegeka."
+          },
+          {
+            "number": "10",
+            "heading": "Guhagarika Inshingano",
+            "subsections": [
+              {
+                "number": "10.1",
+                "heading": "Serivisi nk'uko iri",
+                "body": "Urubuga n'Serivisi zose zitangwa « nk'uko ziri » no « nk'uko ziboneka » hatari ingwano y'ubwoko ubwo bwose, yavuzwe canke yumvwa. Ntidukurikirana ko Urubuga ruzobaho burundu, ruyobe amakosa, canke ruzinda ibikubiye bibi bikoherejwe n'ababandi."
+              },
+              {
+                "number": "10.2",
+                "heading": "Gusezera Inshingano",
+                "body": "Mu rugero rwemerewe cane n'amategeko ya Republika y'Uburundi, Nguzo Marketplace ntizofata inshingano iyo ari yo yose ku birebana na:",
+                "items": [
+                  "Ukuri, amategeko, canke ubuziranenge bw'itangazo riyo ari ryo ryose canke ibikubiye bikomoka ku Bakoresha.",
+                  "Ingorane iyo ari yo yose, ubushurutso, ubunyamacakubiri, ivuniro, canke ingorane ivuye mu gusanganira hagati y'Abakoresha.",
+                  "Gutakaza imari bivuye mu kugurisha, amafaranga, canke impinduka ikorwa hanze y'Urubuga.",
+                  "Guhagarika serivisi biterwa n'ibikorwa hanze y'ubushobozi bwacu bwuzuye, harimo ingorane z'itumanaho, ingendo ya leta, canke ingorane z'inguvu y'Imana."
+                ]
+              },
+              {
+                "number": "10.3",
+                "heading": "Inzunguzanyo",
+                "body": "Wemereza gukinga, gutunga, no guha umutekano Nguzo Marketplace, abanditsi bayo, abakozi, n'abandi nshuti n'iyo ari yo yose y'ikirego, ingorane, gutakaza, ivniro, n'ibihembo (harimo amahemba y'abakozi) ivuye kuvunanako aya Mategeko, gusuzuma amategeko abishe y'Uburundi, canke ingendo zawe ku Rubuga canke biciye kuri yo."
+              }
+            ]
+          },
+          {
+            "number": "11",
+            "heading": "Amategeko Ategeka no Kurangura Amakimbirane",
+            "items": [
+              { "label": "Amategeko Ategeka", "text": "Aya Mategeko ategekwa gusa n'amategeko ya Republika y'Uburundi." },
+              { "label": "Amasezerano y'Umutekano", "text": "Amakimbirane yose avuye mu mategeko aya canke Serivisi canke ahuye na yo azobanziriza indwi y'amasezerano y'ingoro mbi hagati y'ababandi mu gihe c'iminsi 30." },
+              { "label": "Urwego", "text": "Niyarangira amasezerano y'ingoro mbi, amakimbirane azotangirwa ku buyobozi bwuzuye bw'inkiko zibereye za Bujumbura, Burundi." }
+            ]
+          },
+          {
+            "number": "12",
+            "heading": "Amakuru y'Itumanahano",
+            "items": [
+              { "label": "Izina rya Urubuga", "text": "Nguzo" },
+              { "label": "Aderesi Yiyandikishijwe", "text": "[Rizuzwa], Bujumbura, Republika y'Uburundi" },
+              { "label": "Amatangazo y'Amategeko", "text": "{IMERI Y'AMATEGEKO}" },
+              { "label": "Inkunga Rusangi", "text": "{IMERI Y'INKUNGA}" }
+            ]
+          }
+        ]
+      }
+    },
+    "privacy": {
+      "en": {
+        "title": "Privacy Policy",
+        "subtitle": "Republic of Burundi · Data Protection Law (January 2026) · Law N°1/10 of 16 March 2022",
+        "sections": [
+          {
+            "number": "1",
+            "heading": "Introduction and Legal Framework",
+            "body": "Nguzo Marketplace (\"we\", \"us\", \"our\") is committed to protecting the privacy and personal data of all Users of the Platform in a manner consistent with the laws of the Republic of Burundi and applicable international standards.\n\nThis Privacy Policy is grounded in the following legal instruments:",
+            "items": [
+              "The Burundian Personal Data Protection Law adopted by the National Assembly on 15 January 2026, which establishes a comprehensive framework for the collection, processing, and protection of personal data, creates an independent Data Protection Authority, and introduces criminal penalties for violations.",
+              "Law N°1/10 of 16 March 2022 on the Prevention and Repression of Cybercriminality, which defines personal data (Article 2(8)) and imposes obligations on service providers and network operators (Articles 14–15) and privacy protections (Articles 61–63).",
+              "The Constitution of the Republic of Burundi, Articles 28 and 42, which enshrine the right to privacy.",
+              "The AU Convention on Cyber Security and Personal Data Protection (Malabo Convention, 2014), to which Burundi is a signatory."
+            ],
+            "note": "Important note: As of the date of this Policy, the implementing decrees and secondary regulations under the January 2026 Data Protection Law are pending publication. This Policy is drafted in a manner designed to comply with the Law's stated principles upon their entry into force. We will update this Policy as implementing texts become available."
+          },
+          {
+            "number": "2",
+            "heading": "Data Controller",
+            "items": [
+              { "label": "Controller", "text": "Nguzo" },
+              { "label": "Registered Address", "text": "[Same as Terms], Bujumbura, Republic of Burundi" },
+              { "label": "Data Protection Contact", "text": "{DPO EMAIL}" }
+            ],
+            "footer": "You may contact our data protection contact for any question, request, or complaint related to the processing of your personal data."
+          },
+          {
+            "number": "3",
+            "heading": "Personal Data We Collect and Why",
+            "subsections": [
+              {
+                "number": "3.1",
+                "heading": "Data You Provide Directly",
+                "body": "We collect the following data you provide directly: account identity (email address, display name, profile photo, account creation date) for account creation and fraud prevention; listing data (title, description, price, photos, GPS coordinates at time of posting) for displaying listings and enabling local discovery; messages (content, sender info, timestamps) for enabling communication and investigating safety reports; and user activity (bookmarked listings, listing count) for personalization and compliance."
+              },
+              {
+                "number": "3.2",
+                "heading": "Data Collected Automatically via Third-Party Services",
+                "body": "We collect data automatically through: Firebase Analytics (Google LLC) for app performance and user experience improvement; Firebase Authentication (Google LLC) for secure sign-in management; Firebase Crashlytics (Google LLC) for identifying and fixing technical errors; and Cloudinary (Cloudinary Ltd) for image storage and delivery via CDN."
+              }
+            ]
+          },
+          {
+            "number": "4",
+            "heading": "Location Data — Specific Rules",
+            "items": [
+              "GPS location is collected only when you actively use the Nearby discovery feature or when you create a new listing.",
+              "Location data is used solely to generate a geohash and coordinates that are linked to the listing, not to your personal profile.",
+              "The Platform does not conduct background location tracking at any time.",
+              "Location data is not stored as a movement history or personal tracking record.",
+              "The legal basis for GPS processing is your consent, given when you enable the Nearby feature or choose GPS-assisted listing creation. You may withdraw consent at any time by revoking location permissions in your device settings."
+            ]
+          },
+          {
+            "number": "5",
+            "heading": "Legal Bases for Processing",
+            "body": "Consistent with the Burundian Personal Data Protection Law (January 2026) and the principles derived from Articles 61–63 of Law N°1/10 of 16 March 2022, we rely on the following legal bases:",
+            "items": [
+              { "label": "Performance of contract", "text": "Processing necessary to provide the Services you have requested — account creation, listing display, messaging." },
+              { "label": "Legitimate interest", "text": "Fraud prevention, platform security, crash analytics, and the enforcement of these Terms — subject always to your fundamental rights and freedoms." },
+              { "label": "Consent", "text": "GPS location data collection. You may withdraw consent at any time without affecting the lawfulness of prior processing." },
+              { "label": "Legal obligation", "text": "Compliance with valid requests from Burundian law enforcement authorities (OPJ) or the ARCT, pursuant to Law N°1/10 of 16 March 2022 and applicable criminal procedure law." }
+            ]
+          },
+          {
+            "number": "6",
+            "heading": "Who We Share Your Data With",
+            "subsections": [
+              {
+                "number": "6.1",
+                "heading": "Data Processors",
+                "body": "We share personal data with the following service providers, solely for the purposes described in this Policy and under contractual data processing obligations: Google LLC (Firebase services: Authentication, Firestore, Analytics, Crashlytics) — servers may be located outside Burundi; Cloudinary Ltd — for image storage and delivery."
+              },
+              {
+                "number": "6.2",
+                "heading": "Law Enforcement and Regulatory Authorities",
+                "body": "We will disclose personal data to the Burundian Police (OPJ) or the ARCT only upon presentation of a valid judicial warrant or court order, and only to the extent required by that order. We do not proactively share data with government authorities in the absence of a legal mandate."
+              },
+              {
+                "number": "6.3",
+                "heading": "No Sale or Commercial Sharing",
+                "body": "We do not sell, rent, license, or otherwise commercially disclose personal data to any third party. We do not share data with advertisers, data brokers, marketing companies, or any entity for commercial purposes."
+              }
+            ]
+          },
+          {
+            "number": "7",
+            "heading": "Cross-Border Data Transfers",
+            "body": "Your personal data is stored on servers operated by Google LLC (Firebase) and Cloudinary Ltd, which may be located outside the Republic of Burundi.\n\nBy creating an account and using the Platform, you explicitly acknowledge and consent to this cross-border transfer. We ensure that our service providers maintain industry-standard security protections, including AES-256 encryption at rest and TLS encryption in transit.\n\nAs the implementing regulations under the January 2026 Data Protection Law are published, we will update our transfer mechanisms to ensure full compliance."
+          },
+          {
+            "number": "8",
+            "heading": "How Long We Retain Your Data",
+            "body": "We retain: account and profile data until account deletion plus the 30-day cooling-off period; active listings until the Seller's account is completely deleted; general messages until both parties' accounts are deleted, then anonymized; messages subject to active report or investigation up to 2 years; account metadata (fraud/security logs) up to 2 years after deletion; crash logs per Google/Firebase policy."
+          },
+          {
+            "number": "9",
+            "heading": "Your Rights",
+            "body": "Under the Burundian Personal Data Protection Law (January 2026), you have the following rights in relation to your personal data:",
+            "items": [
+              { "label": "Right of Access", "text": "Request a copy of the personal data we hold about you." },
+              { "label": "Right to Rectification", "text": "Request correction of inaccurate or incomplete data." },
+              { "label": "Right to Erasure", "text": "Request deletion of your personal data, subject to our legal retention obligations described in Section 8." },
+              { "label": "Right to Data Portability", "text": "Receive your data in a structured, commonly used, machine-readable format." },
+              { "label": "Right to Withdraw Consent", "text": "Withdraw consent for GPS location processing at any time via your device settings, without penalty." },
+              { "label": "Right to Object", "text": "Object to processing based on legitimate interest, subject to our demonstrating compelling legitimate grounds." }
+            ],
+            "footer": "To exercise any of the above rights, contact our Data Protection Contact at [DPO EMAIL]. We will respond within a reasonable period in accordance with the implementing regulations once published."
+          },
+          {
+            "number": "10",
+            "heading": "Children's Privacy",
+            "body": "The Platform is strictly intended for users who are 18 years of age or older. We do not knowingly collect or retain personal data from minors.\n\nIf we discover that a User is under 18, we will immediately and permanently suspend the account and delete all associated personal data, in accordance with our obligations under Section 3.1 of the Terms of Use and applicable Burundian child protection principles.\n\nIf you become aware of a minor using the Platform, please report it immediately via [SUPPORT EMAIL]."
+          },
+          {
+            "number": "11",
+            "heading": "Security Measures",
+            "body": "We implement a multi-layered security architecture to protect your personal data:",
+            "items": [
+              { "label": "Encryption in transit", "text": "All data transmitted between your device and our servers is encrypted using TLS (Transport Layer Security)." },
+              { "label": "Encryption at rest", "text": "Data stored in Firebase Firestore and Google Cloud is encrypted at rest using AES-256." },
+              { "label": "Access control", "text": "Access to message content is restricted to authorized moderation personnel and only in the context of an active safety investigation following a user report. All such access is logged." },
+              { "label": "Authentication security", "text": "We use Firebase Authentication with passwordless email link sign-in, eliminating password-based attack vectors entirely." },
+              { "label": "Firestore security rules", "text": "Database access is enforced by role-based security rules that prevent unauthorized reads or writes." },
+              { "label": "Breach notification", "text": "In the event of a high-risk personal data breach, we will notify the competent Burundian Data Protection Authority within 72 hours of becoming aware of the breach, in accordance with the January 2026 Data Protection Law." }
+            ],
+            "footer": "No digital system is entirely immune from risk. We apply reasonable and industry-standard precautions, but we cannot guarantee absolute security."
+          },
+          {
+            "number": "12",
+            "heading": "Changes to This Policy",
+            "body": "We may update this Privacy Policy as required by changes in the law, our Services, or our data practices. Material changes will be communicated by in-app notification and, where available, by email to the address on your account.\n\nContinued use of the Platform after the effective date of an updated Policy constitutes acceptance of the revised terms."
+          },
+          {
+            "number": "13",
+            "heading": "Contact and Complaints",
+            "items": [
+              { "label": "Data Protection Contact", "text": "{DPO EMAIL}" },
+              { "label": "General Support", "text": "{SUPPORT EMAIL}" },
+              { "label": "Postal Address", "text": "[To be completed], Bujumbura, Republic of Burundi" }
+            ],
+            "footer": "If you believe your privacy rights have been violated and we have not adequately addressed your concern, you have the right to lodge a complaint with the Burundian Data Protection Authority once it is constituted under the January 2026 Data Protection Law."
+          }
+        ]
+      },
+      "fr": {
+        "title": "NGUZO MARKETPLACE — Politique de Confidentialité",
+        "subtitle": "République du Burundi · Loi sur la Protection des Données (janvier 2026) · Loi N°1/10 du 16 mars 2022",
+        "sections": [
+          {
+            "number": "1",
+            "heading": "Introduction et Cadre Juridique",
+            "body": "Nguzo Marketplace (« nous », « notre ») s'engage à protéger la vie privée et les données personnelles de tous les Utilisateurs de la Plateforme d'une manière conforme aux lois de la République du Burundi et aux normes internationales applicables.\n\nLa présente Politique de Confidentialité est fondée sur les instruments juridiques suivants :",
+            "items": [
+              "La Loi burundaise sur la Protection des Données Personnelles adoptée par l'Assemblée Nationale le 15 janvier 2026, qui établit un cadre complet pour la collecte, le traitement et la protection des données personnelles, crée une Autorité de Protection des Données indépendante et introduit des sanctions pénales pour les violations.",
+              "La Loi N°1/10 du 16 mars 2022 sur la Prévention et la Répression de la Cybercriminalité, qui définit les données personnelles (Article 2(8)) et impose des obligations aux prestataires de services et aux opérateurs de réseau (Articles 14–15) ainsi que des protections de la vie privée (Articles 61–63).",
+              "La Constitution de la République du Burundi, Articles 28 et 42, qui consacrent le droit à la vie privée.",
+              "La Convention de l'UA sur la Cybersécurité et la Protection des Données à Caractère Personnel (Convention de Malabo, 2014), dont le Burundi est signataire."
+            ],
+            "note": "Note importante : À la date de la présente Politique, les décrets d'application et les réglementations secondaires en vertu de la Loi sur la Protection des Données de janvier 2026 sont en attente de publication. La présente Politique est rédigée de manière à se conformer aux principes déclarés de la Loi lors de leur entrée en vigueur. Nous mettrons à jour cette Politique au fur et à mesure que les textes d'application seront disponibles."
+          },
+          {
+            "number": "2",
+            "heading": "Responsable du Traitement",
+            "items": [
+              { "label": "Responsable", "text": "Nguzo" },
+              { "label": "Adresse Enregistrée", "text": "[Identique aux Conditions], Bujumbura, République du Burundi" },
+              { "label": "Contact Protection des Données", "text": "{EMAIL DPO}" }
+            ],
+            "footer": "Vous pouvez contacter notre délégué à la protection des données pour toute question, demande ou plainte relative au traitement de vos données personnelles."
+          },
+          {
+            "number": "3",
+            "heading": "Données Personnelles que Nous Collectons et Pourquoi",
+            "subsections": [
+              {
+                "number": "3.1",
+                "heading": "Données que Vous Fournissez Directement",
+                "body": "Nous collectons les données suivantes que vous fournissez directement : identité du compte (adresse e-mail, nom d'affichage, photo de profil, date de création du compte) pour la création de compte et la prévention de la fraude ; données d'annonce (titre, description, prix, photos, coordonnées GPS au moment de la publication) pour l'affichage des annonces et la découverte locale ; messages (contenu, informations sur l'expéditeur, horodatages) pour permettre la communication et enquêter sur les signalements de sécurité ; et activité utilisateur (annonces enregistrées, nombre d'annonces) pour la personnalisation et la conformité."
+              },
+              {
+                "number": "3.2",
+                "heading": "Données Collectées Automatiquement via des Services Tiers",
+                "body": "Nous collectons des données automatiquement via : Firebase Analytics (Google LLC) pour améliorer les performances de l'application et l'expérience utilisateur ; Firebase Authentication (Google LLC) pour la gestion sécurisée de la connexion ; Firebase Crashlytics (Google LLC) pour identifier et corriger les erreurs techniques ; et Cloudinary (Cloudinary Ltd) pour le stockage et la diffusion des images via CDN."
+              }
+            ]
+          },
+          {
+            "number": "4",
+            "heading": "Données de Localisation — Règles Spécifiques",
+            "items": [
+              "La localisation GPS est collectée uniquement lorsque vous utilisez activement la fonctionnalité de découverte À proximité ou lorsque vous créez une nouvelle annonce.",
+              "Les données de localisation sont utilisées uniquement pour générer un géohash et des coordonnées liés à l'annonce, et non à votre profil personnel.",
+              "La Plateforme ne procède à aucun suivi de localisation en arrière-plan.",
+              "Les données de localisation ne sont pas stockées en tant qu'historique de déplacements ou enregistrement de suivi personnel.",
+              "La base juridique du traitement GPS est votre consentement, donné lorsque vous activez la fonctionnalité À proximité ou choisissez la création d'annonce assistée par GPS. Vous pouvez retirer votre consentement à tout moment en révoquant les autorisations de localisation dans les paramètres de votre appareil."
+            ]
+          },
+          {
+            "number": "5",
+            "heading": "Bases Juridiques du Traitement",
+            "body": "Conformément à la Loi burundaise sur la Protection des Données Personnelles (janvier 2026) et aux principes découlant des Articles 61–63 de la Loi N°1/10 du 16 mars 2022, nous nous appuyons sur les bases juridiques suivantes :",
+            "items": [
+              { "label": "Exécution du contrat", "text": "Traitement nécessaire à la fourniture des Services que vous avez demandés — création de compte, affichage des annonces, messagerie." },
+              { "label": "Intérêt légitime", "text": "Prévention de la fraude, sécurité de la plateforme, analyse des plantages et application des présentes Conditions — sous réserve toujours de vos droits et libertés fondamentaux." },
+              { "label": "Consentement", "text": "Collecte des données de localisation GPS. Vous pouvez retirer votre consentement à tout moment sans affecter la licéité du traitement antérieur." },
+              { "label": "Obligation légale", "text": "Conformité aux demandes valides des autorités burundaises chargées de l'application de la loi (OPJ) ou de l'ARCT, en vertu de la Loi N°1/10 du 16 mars 2022 et du droit de la procédure pénale applicable." }
+            ]
+          },
+          {
+            "number": "6",
+            "heading": "Avec Qui Nous Partageons Vos Données",
+            "subsections": [
+              {
+                "number": "6.1",
+                "heading": "Sous-Traitants",
+                "body": "Nous partageons des données personnelles avec les prestataires de services suivants, uniquement aux fins décrites dans la présente Politique et dans le cadre d'obligations contractuelles de traitement des données : Google LLC (services Firebase : Authentication, Firestore, Analytics, Crashlytics) — les serveurs peuvent être situés en dehors du Burundi ; Cloudinary Ltd — pour le stockage et la diffusion des images."
+              },
+              {
+                "number": "6.2",
+                "heading": "Autorités Chargées de l'Application de la Loi et Autorités de Régulation",
+                "body": "Nous divulguerons des données personnelles à la Police burundaise (OPJ) ou à l'ARCT uniquement sur présentation d'un mandat judiciaire valide ou d'une ordonnance du tribunal, et uniquement dans la mesure requise par cette ordonnance. Nous ne partageons pas proactivement les données avec les autorités gouvernementales en l'absence d'un mandat légal."
+              },
+              {
+                "number": "6.3",
+                "heading": "Aucune Vente ni Partage Commercial",
+                "body": "Nous ne vendons pas, ne louons pas, n'octroyons pas de licence, ni ne divulguons commercialement de quelque manière que ce soit des données personnelles à des tiers. Nous ne partageons pas de données avec des annonceurs, des courtiers en données, des entreprises de marketing ou toute entité à des fins commerciales."
+              }
+            ]
+          },
+          {
+            "number": "7",
+            "heading": "Transferts de Données Transfrontaliers",
+            "body": "Vos données personnelles sont stockées sur des serveurs exploités par Google LLC (Firebase) et Cloudinary Ltd, qui peuvent être situés en dehors de la République du Burundi.\n\nEn créant un compte et en utilisant la Plateforme, vous reconnaissez explicitement et consentez à ce transfert transfrontalier. Nous veillons à ce que nos prestataires de services maintiennent des protections de sécurité conformes aux normes du secteur, notamment le chiffrement AES-256 au repos et TLS en transit.\n\nAu fur et à mesure que les réglementations d'application en vertu de la Loi sur la Protection des Données de janvier 2026 seront publiées, nous mettrons à jour nos mécanismes de transfert pour assurer une conformité totale."
+          },
+          {
+            "number": "8",
+            "heading": "Durée de Conservation de Vos Données",
+            "body": "Nous conservons : les données de compte et de profil jusqu'à la suppression du compte plus la période de rétractation de 30 jours ; les annonces actives jusqu'à la suppression complète du compte du Vendeur ; les messages généraux jusqu'à ce que les comptes des deux parties soient supprimés, puis anonymisés ; les messages faisant l'objet d'un signalement ou d'une enquête active jusqu'à 2 ans ; les métadonnées de compte (journaux de fraude/sécurité) jusqu'à 2 ans après la suppression ; les journaux de plantage selon la politique de Google/Firebase."
+          },
+          {
+            "number": "9",
+            "heading": "Vos Droits",
+            "body": "En vertu de la Loi burundaise sur la Protection des Données Personnelles (janvier 2026), vous disposez des droits suivants concernant vos données personnelles :",
+            "items": [
+              { "label": "Droit d'Accès", "text": "Demander une copie des données personnelles que nous détenons sur vous." },
+              { "label": "Droit de Rectification", "text": "Demander la correction de données inexactes ou incomplètes." },
+              { "label": "Droit à l'Effacement", "text": "Demander la suppression de vos données personnelles, sous réserve de nos obligations légales de conservation décrites à l'Article 8." },
+              { "label": "Droit à la Portabilité des Données", "text": "Recevoir vos données dans un format structuré, couramment utilisé et lisible par machine." },
+              { "label": "Droit de Retrait du Consentement", "text": "Retirer votre consentement au traitement de la localisation GPS à tout moment via les paramètres de votre appareil, sans pénalité." },
+              { "label": "Droit d'Opposition", "text": "S'opposer au traitement fondé sur l'intérêt légitime, sous réserve que nous démontrions des motifs légitimes impérieux." }
+            ],
+            "footer": "Pour exercer l'un des droits ci-dessus, contactez notre Délégué à la Protection des Données à [EMAIL DPO]. Nous répondrons dans un délai raisonnable conformément aux réglementations d'application une fois publiées."
+          },
+          {
+            "number": "10",
+            "heading": "Protection de la Vie Privée des Enfants",
+            "body": "La Plateforme est strictement destinée aux utilisateurs âgés de 18 ans ou plus. Nous ne collectons ni ne conservons sciemment les données personnelles de mineurs.\n\nSi nous découvrons qu'un Utilisateur a moins de 18 ans, nous suspendrons immédiatement et définitivement le compte et supprimerons toutes les données personnelles associées, conformément à nos obligations au titre de l'Article 3.1 des Conditions d'Utilisation et des principes burundais de protection de l'enfance applicables.\n\nSi vous avez connaissance d'un mineur utilisant la Plateforme, veuillez le signaler immédiatement via [EMAIL SUPPORT]."
+          },
+          {
+            "number": "11",
+            "heading": "Mesures de Sécurité",
+            "body": "Nous mettons en œuvre une architecture de sécurité multicouche pour protéger vos données personnelles :",
+            "items": [
+              { "label": "Chiffrement en transit", "text": "Toutes les données transmises entre votre appareil et nos serveurs sont chiffrées à l'aide de TLS (Transport Layer Security)." },
+              { "label": "Chiffrement au repos", "text": "Les données stockées dans Firebase Firestore et Google Cloud sont chiffrées au repos à l'aide d'AES-256." },
+              { "label": "Contrôle d'accès", "text": "L'accès au contenu des messages est limité au personnel de modération autorisé et uniquement dans le cadre d'une enquête de sécurité active suite à un signalement d'utilisateur. Tous ces accès sont consignés." },
+              { "label": "Sécurité de l'authentification", "text": "Nous utilisons Firebase Authentication avec la connexion sans mot de passe par lien e-mail, éliminant entièrement les vecteurs d'attaque basés sur les mots de passe." },
+              { "label": "Règles de sécurité Firestore", "text": "L'accès à la base de données est contrôlé par des règles de sécurité basées sur les rôles qui empêchent les lectures ou écritures non autorisées." },
+              { "label": "Notification des violations", "text": "En cas de violation de données personnelles à haut risque, nous notifierons l'Autorité burundaise compétente en matière de Protection des Données dans les 72 heures suivant la prise de connaissance de la violation, conformément à la Loi sur la Protection des Données de janvier 2026." }
+            ],
+            "footer": "Aucun système numérique n'est entièrement à l'abri des risques. Nous appliquons des précautions raisonnables et conformes aux normes du secteur, mais nous ne pouvons garantir une sécurité absolue."
+          },
+          {
+            "number": "12",
+            "heading": "Modifications de la Présente Politique",
+            "body": "Nous pouvons mettre à jour la présente Politique de Confidentialité en fonction des évolutions législatives, de nos Services ou de nos pratiques en matière de données. Les changements substantiels seront communiqués par notification intégrée à l'application et, le cas échéant, par e-mail à l'adresse de votre compte.\n\nLa poursuite de l'utilisation de la Plateforme après la date d'entrée en vigueur d'une Politique mise à jour constitue l'acceptation des conditions révisées."
+          },
+          {
+            "number": "13",
+            "heading": "Contact et Réclamations",
+            "items": [
+              { "label": "Contact Protection des Données", "text": "{EMAIL DPO}" },
+              { "label": "Assistance Générale", "text": "{EMAIL SUPPORT}" },
+              { "label": "Adresse Postale", "text": "[À compléter], Bujumbura, République du Burundi" }
+            ],
+            "footer": "Si vous estimez que vos droits en matière de confidentialité ont été violés et que nous n'avons pas répondu de manière adéquate à votre préoccupation, vous avez le droit de déposer une plainte auprès de l'Autorité burundaise de Protection des Données une fois qu'elle sera constituée en vertu de la Loi sur la Protection des Données de janvier 2026."
+          }
+        ]
+      },
+      "rn": {
+        "title": "NGUZO MARKETPLACE — Politike y'Intimba",
+        "subtitle": "Republika y'Uburundi · Itegeko ryo Kurinda Amakuru (Nzero 2026) · Itegeko Nshinga N°1/10 ryo ku wa 16 Ntwarante 2022",
+        "sections": [
+          {
+            "number": "1",
+            "heading": "Intangamarara n'Ingoro y'Amategeko",
+            "body": "Nguzo Marketplace (« twe », « iwacu ») iremerwa kugira ngo irinze intimba n'amakuru bwite y'Abakoresha bose ba Urubuga mu buryo buhuye n'amategeko ya Republika y'Uburundi n'ingero z'isi yose zishoboka.\n\nIyi Politike y'Intimba ishingiye ku bibanza vy'amategeko bikurikira:",
+            "items": [
+              "Itegeko ryo Kurinda Amakuru Bwite rya Uburundi ryemejwe n'Inama Nkenguzamateka ku wa 15 Nzero 2026, ryemeza ingero nyunvikana yo gukusanya, gukurikirana, no kurinda amakuru bwite, rishinzwe Urwego rw'Ubwisanzure rwo Kurinda Amakuru, kandi ryinjiza ihazabu ry'ubuhemu ku bisuzumwa.",
+              "Itegeko Nshinga N°1/10 ryo ku wa 16 Ntwarante 2022 rigenga Iyaburizwa no Guhanwa kw'Ubwiyandarike mu buryo bwa sumbano, rigena amakuru bwite (Ingingo ya 2(8)) kandi risabira inshingano abashinzwe serivisi n'ababika itumanahano (Ingingo 14–15) no kurinda intimba (Ingingo 61–63).",
+              "Itegeko Nshinga rya Republika y'Uburundi, Ingingo 28 na 42, zishimangira uburenganzira bw'intimba.",
+              "Amasezerano y'Ubumwe bw'Afrika ku Mutekano wa Sumbano no Kurinda Amakuru Bwite (Amasezerano ya Malabo, 2014), Uburundi bwayasinyiye."
+            ],
+            "note": "Icyitonderwa gikomeye: Ku itariki y'iyi Politike, amateka y'ishyirwa mu bikorwa n'amabwiriza y'urwego rwa kabiri mu mategeko ya Nzero 2026 ari hategerejwe. Iyi Politike yanditswe mu buryo bwashyizweho kugira ngo ihame n'amategeko ivugwa igihe azinjira mu bikorwa. Tuzahindura iyi Politike igihe inyandiko z'ishyirwa mu bikorwa zizaboneka."
+          },
+          {
+            "number": "2",
+            "heading": "Uwifashe Inshingano z'Amakuru",
+            "items": [
+              { "label": "Uwifashe Inshingano", "text": "Nguzo" },
+              { "label": "Aderesi Yiyandikishijwe", "text": "[Nk'uko biri mu Mategeko], Bujumbura, Republika y'Uburundi" },
+              { "label": "Itumanahano ryo Kurinda Amakuru", "text": "{IMERI YA DPO}" }
+            ],
+            "footer": "Urashobora gutumanikira utumanahano twacu two kurinda amakuru ku kibazo ico ari co cose, isaba, canke ikirego girebana no gukurikirana amakuru yawe bwite."
+          },
+          {
+            "number": "3",
+            "heading": "Amakuru Bwite Dukusanya no Impamvu",
+            "subsections": [
+              {
+                "number": "3.1",
+                "heading": "Amakuru Utanga Mu Buryo Bwa Segitwa",
+                "body": "Dukusanya amakuru akurikira utanga mu buryo bwa segitwa: indangamuntu y'ikonto (aderesi imeri, izina ryerekana, ifoto ya profile, itariki yo gufungura ikonto) kubifasha mu gufungura ikonto no gukumira ubunyamacakubiri; amakuru y'itangazo (umutwe, ibisobanuro, igiciro, amafoto, uburyo bwa GPS mu gihe c'iturika) kubifasha mu kwerekana amatangazo no guha umuntu ubushakashatsi bw'agace; ubutumwa (ibikubiye, amakuru y'uwoherereje, amasaha) kubifasha mu gutumanikira no gusuzuma inkuru z'umutekano; n'ibikorwa vy'umukoresha (amatangazo yabitswe, umubare w'amatangazo) kubifasha mu kubikoranya no kugira ngo bihuye n'amategeko."
+              },
+              {
+                "number": "3.2",
+                "heading": "Amakuru Akusanywa Mu Kuzamura Biciye ku Serivisi z'Ababandi",
+                "body": "Dukusanya amakuru mu kuzamura biciye kuri: Firebase Analytics (Google LLC) kubifasha mu kunoza ibikorwa vya porogramu n'uburemere bw'ikoreshwa; Firebase Authentication (Google LLC) kubifasha mu gucunga umwinjiro w'umutekano; Firebase Crashlytics (Google LLC) kubifasha mu kumenya no gukosora amakosa ya tekiniki; na Cloudinary (Cloudinary Ltd) kubifasha mu kubika no kohereza amafoto biciye kuri CDN."
+              }
+            ]
+          },
+          {
+            "number": "4",
+            "heading": "Amakuru y'Ahantu — Amabwiriza Aharurirwa",
+            "items": [
+              "Ahantu ha GPS hakusanywa gusa iyo ukoresha mu buryo bwa segitwa ikintu co gushaka Hafi canke iyo utura itangazo rishasha.",
+              "Amakuru y'ahantu akoreshwa gusa kugira ngo atunge geohash n'amakoraniro ahuye n'itangazo, aho ku profile yawe bwite.",
+              "Urubuga ntirukurikirana ahantu mu nyuma igihe cose.",
+              "Amakuru y'ahantu ntabwo abikwa nk'akamaro k'ingendo canke inyandiko y'ukurikirana umuntu.",
+              "Ishingiro ry'amategeko ryo gukurikirana GPS ni kwemera kwawe, gutangwa iyo uha ikintu co Hafi canke uhisemo gufungura itangazo rishingiye kuri GPS. Urashobora gusubiza inyuma kwemera kwawe igihe cose mu kugabura uburenganzira bw'ahantu mu ngorwa z'igikoresho cawe."
+            ]
+          },
+          {
+            "number": "5",
+            "heading": "Ishingiro ry'Amategeko ryo Gukurikirana",
+            "body": "Nk'uko bihuye n'Itegeko ryo Kurinda Amakuru Bwite rya Uburundi (Nzero 2026) n'amahame avuye mu Ngingo 61–63 z'Itegeko Nshinga N°1/10 ryo ku wa 16 Ntwarante 2022, dushingira ku bishingiro vy'amategeko bikurikira:",
+            "items": [
+              { "label": "Gushyira mu bikorwa amasezerano", "text": "Gukurikirana bikenewe gutanga Serivisi wasabye — gufungura ikonto, kwerekana amatangazo, gutumanikira." },
+              { "label": "Inyungu isanzwe", "text": "Gukumira ubunyamacakubiri, umutekano wa rubuga, isuzumwa ry'ihungabana, no gushyira mu bikorwa aya Mategeko — bivuye burundu ku burenganzira bwawe nshingiro n'ubwisanzure." },
+              { "label": "Kwemera", "text": "Gukusanya amakuru y'ahantu ha GPS. Urashobora gusubiza inyuma kwemera kwawe igihe cose utabuza ubuzi bw'ugukurikirana kw'imbere." },
+              { "label": "Inshingano z'amategeko", "text": "Kugira ngo bihuye n'ibisabwa bisanzwe biva ku nzego z'amategeko z'Uburundi (OPJ) canke ARCT, nk'uko Itegeko Nshinga N°1/10 ryo ku wa 16 Ntwarante 2022 n'amategeko ashoboka y'inzira z'ubuhemu bibitegeka." }
+            ]
+          },
+          {
+            "number": "6",
+            "heading": "N'Abande Dusangira Amakuru Yawe",
+            "subsections": [
+              {
+                "number": "6.1",
+                "heading": "Abakurikirana Amakuru",
+                "body": "Dusangira amakuru bwite n'abashinzwe serivisi bakurikira, gusa ku ntumbero zivugwa muri iyi Politike no mu mabajwe y'amasezerano yo gukurikirana amakuru: Google LLC (serivisi za Firebase: Authentication, Firestore, Analytics, Crashlytics) — amaseva ashobora kuba hanze y'Uburundi; Cloudinary Ltd — kubika no kohereza amafoto."
+              },
+              {
+                "number": "6.2",
+                "heading": "Inzego z'Amategeko n'Inzego z'Ugutegura",
+                "body": "Tuzatangira amakuru bwite kuri Polisi y'Uburundi (OPJ) canke ARCT gusa hahejeje gutanga irondoka y'urukiko yemewe canke itegeko ry'urukiko, kandi gusa mu rugero rusabwa n'itegeko iryo. Ntidutunga amakuru na leta mu buryo bw'imbere atari na rumwe itegeko risaba."
+              },
+              {
+                "number": "6.3",
+                "heading": "Nta Kugurisha canke Gutunga Ubucuruzi",
+                "body": "Ntidugurisha, ntidukodesha, ntidutangira uburenganzira, canke ntidutunga amakuru bwite mu buryo ubwo bwose bw'ubucuruzi kuri wundi muntu wa gatatu. Ntidutunga amakuru n'ababunzi, abacukuzi b'amakuru, sosiyete z'ubucuruzi, canke inzego zose z'ubucuruzi."
+              }
+            ]
+          },
+          {
+            "number": "7",
+            "heading": "Gukura Amakuru Hanze y'Imipaka",
+            "body": "Amakuru yawe bwite abikwa ku maseva akoresha Google LLC (Firebase) na Cloudinary Ltd, ashobora kuba hanze ya Republika y'Uburundi.\n\nMu gufungura ikonto no gukoresha Urubuga, wemereza burundu kandi uremera ko amakuru atangwa hanze y'imipaka. Durinzira ko abashinzwe serivisi bacu bagumana ingoro z'umutekano zihuye n'ingero z'inganda, harimo guturika kwa AES-256 mu bwire no TLS mu guturika.\n\nIgihe amabwiriza y'ishyirwa mu bikorwa mu mategeko y'amakuru ya Nzero 2026 azashyirwa, tuzahindura inzira zacu zo kohereza kugira ngo bihuye burundu."
+          },
+          {
+            "number": "8",
+            "heading": "Igihe Dukiga Amakuru Yawe",
+            "body": "Dukiga: amakuru y'ikonto na profile gushika gusibwa kw'ikonto n'igihe co gusubira inyuma c'iminsi 30; amatangazo akora gushika gusibwa burundu kw'ikonto ry'Umutuzi; ubutumwa rusangi gushika amakonto y'ababandi bombi asibwe, hanyuma asigwa hatari umuntu; ubutumwa bushyizwe mu nkuru zifunguye canke isuzumwa gushika imyaka 2; metadata y'ikonto (amateka y'ubunyamacakubiri/umutekano) gushika imyaka 2 nyuma yo gusibwa; amateka y'ihungabana nk'uko politike ya Google/Firebase ibitegeka."
+          },
+          {
+            "number": "9",
+            "heading": "Uburenganzira Bwawe",
+            "body": "Mu mategeko y'Itegeko ryo Kurinda Amakuru Bwite rya Uburundi (Nzero 2026), ufite uburenganzira bukurikira ku birebana n'amakuru yawe bwite:",
+            "items": [
+              { "label": "Uburenganzira bwo Kugera", "text": "Gusaba kopi y'amakuru bwite dutunga ku birebana nawe." },
+              { "label": "Uburenganzira bwo Gukosora", "text": "Gusaba gukosora amakuru atari ya mvaho canke aduzuye." },
+              { "label": "Uburenganzira bwo Gusiba", "text": "Gusaba gusibwa kw'amakuru yawe bwite, bivuye ku mabajwe yacu y'amategeko y'ukugumana aseretswe mu Ngingo ya 8." },
+              { "label": "Uburenganzira bw'Ugushiraho Amakuru", "text": "Kwakira amakuru yawe mu buryo butunganye, bukoreshwa, bushobora gusomwa na mudasobwa." },
+              { "label": "Uburenganzira bwo Gusubiza Inyuma Kwemera", "text": "Gusubiza inyuma kwemera gukurikirana GPS ahantu igihe cose biciye ku ngorwa z'igikoresho cawe, atari na rumwe ihazabu." },
+              { "label": "Uburenganzira bwo Guhakana", "text": "Guhakana gukurikirana bushingiye ku nyungu isanzwe, bivuye ku twe twerekana ishingiro rihamye ry'inyungu." }
+            ],
+            "footer": "Kugira ngo ugere ku burenganzira ubwo bwose buvugwa haruguru, tumanikire Utumanahano twacu two Kurinda Amakuru kuri [IMERI YA DPO]. Tuzasubiza mu gihe gikwiye nk'uko amabwiriza y'ishyirwa mu bikorwa azashyirwa."
+          },
+          {
+            "number": "10",
+            "heading": "Kurinda Intimba y'Abana",
+            "body": "Urubuga rugenewe cane abatuzi bafise nibura imyaka 18. Ntitwakusanya kandi ntitubike amakuru bwite y'abana.\n\nNusanga Umukoresha afise munsi y'imyaka 18, tuzahagarika vuba kandi burundu ikonto no gusiba amakuru yose bwite ahuye nayo, nk'uko inshingano zacu mu ngingo ya 3.1 y'Amategeko y'Ikoreshwa n'amahame y'uburindi kurinda abana bishoboka bibitegeka.\n\nNusanga umwana akoresha Urubuga, tanga inkuru vuba biciye kuri [IMERI Y'INKUNGA]."
+          },
+          {
+            "number": "11",
+            "heading": "Ingoro z'Umutekano",
+            "body": "Dushyira mu bikorwa ingoro y'umutekano y'inzegwe nyinshi kugira ngo twirinze amakuru yawe bwite:",
+            "items": [
+              { "label": "Guturika mu guturika", "text": "Amakuru yose yoherezwa hagati y'igikoresho cawe n'amaseva yacu aguturitswa biciye kuri TLS (Transport Layer Security)." },
+              { "label": "Guturika mu bwire", "text": "Amakuru abitswe muri Firebase Firestore na Google Cloud aguturitswa mu bwire biciye kuri AES-256." },
+              { "label": "Ugucunga kwinjira", "text": "Kwinjira mu bikubiye by'ubutumwa bikurikirwa gusa n'abakozi bemewe bo gukurikira kandi gusa mu nzira y'isuzumwa ry'umutekano rikora nyuma y'inkuru y'umukoresha. Kwinjira kwose nk'ubwo kuguma kubikwa." },
+              { "label": "Umutekano w'inyishu", "text": "Dukoresha Firebase Authentication hamwe n'umwinjiro w'urunigi rwa imeri udahitiye ijambo banga, bibuza inzira zose z'igitero bishingiye ku majambo banga." },
+              { "label": "Amabwiriza y'umutekano wa Firestore", "text": "Kwinjira kwa database kurinzwe n'amabwiriza y'umutekano ashingiye ku mirimo ibuza gusoma canke kwandika atemewe." },
+              { "label": "Kumenyesha isuzumwa ry'ubushurutso", "text": "Mu gihe c'isuzumwa ry'amakuru bwite ry'ib ingoga, tuzamenyesha Urwego rw'Ubwisanzure rw'Uburundi rwo Kurinda Amakuru mu masaha 72 uhereye igihe twabibonye, nk'uko Itegeko ryo Kurinda Amakuru rya Nzero 2026 bibitegeka." }
+            ],
+            "footer": "Nta sisitemu ya numerike itagira ingorane yose. Dukoresha ingoro zikwiye n'inzira z'inganda, ariko ntishobora gutunga umutekano utagira ingorane."
+          },
+          {
+            "number": "12",
+            "heading": "Impinduka muri Iyi Politike",
+            "body": "Turashobora guhindura iyi Politike y'Intimba nk'uko bisabwa n'impinduka mu mategeko, Serivisi zacu, canke ingendo zacu z'amakuru. Impinduka z'ingenzi zizomenyeshwa biciye ku menyesha mu porogramu no, iyo bishoboka, biciye kuri imeri kuri aderesi y'ikonto ryawe.\n\nGukurikiza ikoreshwa rw'Urubuga nyuma yo gufatwa igihe gitangira Politike ihindutse bisobanura kwemera amategeko ahindutse."
+          },
+          {
+            "number": "13",
+            "heading": "Itumanahano n'Ikirego",
+            "items": [
+              { "label": "Itumanahano ryo Kurinda Amakuru", "text": "{IMERI YA DPO}" },
+              { "label": "Inkunga Rusangi", "text": "{IMERI Y'INKUNGA}" },
+              { "label": "Aderesi y'Iposita", "text": "[Rizuzwa], Bujumbura, Republika y'Uburundi" }
+            ],
+            "footer": "Nusanga uburenganzira bwawe bw'intimba bwasuzumwe kandi nta cyo twakugiranye ku birebana n'ibibazo byawe, ufite uburenganzira bwo gutanga ikirego kuri Urwego rw'Ubwisanzure rw'Uburundi rwo Kurinda Amakuru igihe rizoshyirwa mu bikorwa mu mategeko y'amakuru ya Nzero 2026."
+          }
+        ]
+      }
+    }
+  }
+}
