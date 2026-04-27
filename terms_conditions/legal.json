@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "15-04-2025",
+  "lastUpdated": "15-04-2026",
   "documents": {
     "terms": {
       "en": {
@@ -287,7 +287,6 @@
             "heading": "Contact Information",
             "items": [
               { "label": "Platform Name", "text": "Nguzo" },
-              { "label": "Address", "text": "Bujumbura, Republic of Burundi" },
               { "label": "Legal Notices", "text": "nguzo.official@gmail.com" },
               { "label": "General Support", "text": "support.nguzo@gmail.com" }
             ]
@@ -579,7 +578,6 @@
             "heading": "Coordonnées",
             "items": [
               { "label": "Nom de la Plateforme", "text": "Nguzo" },
-              { "label": "Adresse", "text": "Bujumbura, République du Burundi" },
               { "label": "Notifications Légales", "text": "nguzo.official@gmail.com" },
               { "label": "Assistance Générale", "text": "support.nguzo@gmail.com" }
             ]
@@ -588,29 +586,29 @@
       },
       "rn": {
         "title": "Amategeko y'Ikoreshwa",
-        "subtitle": "Ategekwa n'amategeko ya Republika y'Uburundi",
+        "subtitle": "Afatiye ku mategeko ya Republika y'Uburundi",
         "sections": [
           {
             "number": "1",
-            "heading": "Ibisobanuro",
-            "body": "Amagambo akurikira, iyo akoreshwa muri aya Mategeko y'Ikoreshwa, afite ibisobanuro bikurikira:",
+            "heading": "Insiguro",
+            "body": "Amajambo akurikira, iyo akoreshejwe muri aya Mategeko y'Ikoreshwa, afise insiguro zikurikira:",
             "items": [
-              { "term": "« Urubuga » canke « Porogramu »", "definition": "Porogramu ya telefoni ngurukanabumenyi ya Nguzo Marketplace." },
-              { "term": "« Serivisi »", "definition": "Ibikorwa vy'isoko hagati y'abantu ku rwego rw'agace karangwa hamwe n'ikoreshwa rya GPS, nk'ugutura amatangazo, gutumirana mu porogramu, ubushakashatsi bushingiye ku mwanya, n'ikintu c'Hafi." },
-              { "term": "« Umukoresha »", "definition": "Umuntu wese w'umuntu kw'isi wiyandikisha konto canke agera ku Rubuga." },
-              { "term": "« Umuguzi w'ibicuruzwa »", "definition": "Umukoresha atura no gusarangaza itangazo ku Rubuga." },
-              { "term": "« Umuguzi »", "definition": "Umukoresha atumanikira Umuguzi w'ibicuruzwa biciye ku Rubuga ku birebana n'ingingo yatanzwe." },
-              { "term": "« Amanota y'Icizigiro »", "definition": "Ingero y'imbere y'ukwizigirwa ziri ku konto ya buri Mukoresha, zirerekana akamaro k'ingendo mu Rubuga." },
-              { "term": "« Uguhana »", "definition": "Impinduka yose y'ibicuruzwa, amafaranga, canke serivisi yateguriwe hagati y'Abakoresha. Uguhana kugira ngo kwose gukorwa hanze y'umurongo no hanze y'Urubuga." },
-              { "term": "« Ibikubiye »", "definition": "Inyandiko zose, amafoto, ibisobanuro, ubutumwa, canke ibindi bintu bisabwe n'Abakoresha ku Rubuga." },
-              { "term": "« BBN »", "definition": "Bureau Burundais de Normalisation et Contrôle de la Qualité, inzego y'igihugu y'uburundi ishinzwe kugumana ibicuruzwa n'ugusuzuma ingene ibicuruzwa bimeze." },
-              { "term": "« ARCT »", "definition": "Agence de Régulation et de Contrôle des Télécommunications, inzego z'Uburundi zishinzwe gutegura telefoni n'itumanaho mu buryo bwa sumbano." }
+              { "term": "« Urubuga » canke « Porogramu »", "definition": "Porogramu ya telefone ya Nguzo Marketplace." },
+              { "term": "« Serivisi »", "definition": "Ibikorwa vy'igura n'igurishwa hagati y'abantu ku rwego rw'agace bitangwa n'Urubuga, nk'ukwamamaza, uguhanahana ubutumwa, ubushakashatsi bufatiye ku mwanya hamwe n'ikintu ca Hafi" },
+              { "term": "« Umunywanyi »", "definition": "Umuntu wese yuguruje ikonti canke aja ku Rubuga." },
+              { "term": "« Umudandaza »", "definition": "Umunywanyi wese ashira itangazo ku Rubuga." },
+              { "term": "« Umuguzi »", "definition": "Umunywanyi arondera Umudandaza biciye ku Rubuga ku bijanye n'igicuzwa catanzwe." },
+              { "term": "« Amanota y'Ubwizigirwa »", "definition": "Ingero y'ubwizigirwa iri kw' ikonti ya buri Munywanyi, yererekana uburyo yigenjeje mu Rubuga." },
+              { "term": "« Uguhanahana »", "definition": "Ugutanga canke kwakira kwose kw'ibicuruzwa, amafaranga, canke serivisi vyateguriwe hagati y'Abanywanyi. Uguhanahana kwose gukorerwa hanze y'umurongo no hanze y'Urubuga." },
+              { "term": "« Ibikubiye »", "definition": "Inyandiko zose, amasanamu, insiguro, ubutumwa, canke ibindi bintu bisabwe n'Abanywanyi ku Rubuga." },
+              { "term": "« BBN »", "definition": "Bureau Burundais de Normalisation et Contrôle de la Qualité, urwego rw'igihugu c'Uburundi rushinzwe kuraba ibicuruzwa no gusuzuma ingene ibicuruzwa bimeze." },
+              { "term": "« ARCT »", "definition": "Agence de Régulation et de Contrôle des Télécommunications, urwego rw'igihugu c'Uburundi rushinzwe gutegura telefone n'itumatumanako mu buhinga bwa none." }
             ]
           },
           {
             "number": "2",
             "heading": "Kwemera Amategeko",
-            "body": "Mu gufungura konto, kwinjira ku Rubuga, canke gukoresha serivisi iyo ari yo yose, wemereza ko wasomye, wumvise, kandi uremera nta gusubira inyuma kwemezwa n'aya Mategeko y'Ikoreshwa na Politike yacu y'Intimba.\n\nNusaba ko utemeye igice ico ari co cose c'aya Mategeko, ugomba vuba guheba ikoreshwa ryose rw'Urubuga no gusiba konto yawe.\n\nTwirinda gutunga uburenganzira bwo guhindura aya Mategeko igihe cose. Impinduka z'ingenzi zizomenyeshwa biciye ku menyesha mu porogramu no, iyo bishoboka, biciye kuri imeri. Gukurikiza ikoreshwa rw'Urubuga nyuma yo kumenyeshwa bisobanura kwemera Amategeko ahindutse."
+            "body": "Mu kwuguruza ikonti, kwinjira ku Rubuga, canke gukoresha serivisi iyo ari yo yose, wemera ko wasomye, watahuye, kandi wemera ko ata kwisubirako kwemezwa kw'aya Mategeko y'Ikoreshwa na Politike yacu y'Intimba.\n\nNiwaba utemeye igice ico ari co cose c'aya Mategeko, ugomba guca uheba ikoreshwa ryose rw'Urubuga no gufuta ikonti yawe.\n\nTugumana uburenganzira bwo guhindura aya Mategeko igihe ico ari co cose. Impinduka z'abanywanyi zizomenyeshwa biciye kuri notification mu porogramu kandi, mu gihe bishoboka, biciye kuri e-mail. Kubandanya ikoresha ry'Urubuga mu nyuma yo kumenyeshwa bisigura kwemera Amategeko ahindutse."
           },
           {
             "number": "3",
@@ -619,22 +617,22 @@
               {
                 "number": "3.1",
                 "heading": "Imyaka isabwa",
-                "body": "Ugomba kuba ufise nibura imyaka 18 kugira ngo wiyandikishe no gukoresha Urubuga. Ntitwemereza gukoresha n'abo bato. Nusanga konto iri mu muntu uri munsi y'imyaka 18, iyo konto izahagarikwa ako kanya burundu, kandi amakuru yose ahuye nayo asibwa."
+                "body": "Umuntu wese agomba kuba afise n'imiburiburi imyaka 18 kugira ngo yiyandikishe ngo akoreshe Urubuga. Ntitwemera ugukoreshwa kw'Urubuga n'abakiri bato. Nihaboneka ikonti y'umuntu adakwije imyaka 18, iyo ikonti izohagarikwa ako kanya nyene , kandi amakuru yose ahuye nayo azoca afutwa."
               },
               {
                 "number": "3.2",
-                "heading": "Ubushobozi bwa Gahunda",
-                "body": "Ugomba kuba ufise ubushobozi bwose bwa gahunda mu mategeko y'Uburundi kugira ngo winjire mu masezerano. Mu kwemera aya Mategeko, uvuga ko ufise ubushobozi nk'ubwo."
+                "heading": "Ubushobozi bufatiye ku mategeko",
+                "body": "Ugomba kuba ufise ubushobozi bwose bufatiye ku mategeko y'Uburundi kugira ngo winjire mu masezerano. Mu kwemera aya Mategeko, uvuga ko ufise ubwo ubushobozi."
               },
               {
                 "number": "3.3",
-                "heading": "Ubwiyemezamizi bw'Ikonto",
-                "body": "Umuntu wese w'umuntu w'umubiri ashobora gutunga konto imwe yiyandikishijwe. Gukoresha amakonto menshi, canke kwiyandikisha mu izina ry'undi muntu atari we wemeye, biranga kuva mu mategeko."
+                "heading": "Ubwihariko bw'Ikonti",
+                "body": "Umuntu wese ashobora gutunga ikonti itarenga imwe. Gukoresha amakonti menshi, canke kwiyandikisha kw'izina ry'uwundi muntu atari we wemeye, bisigura ko warenze aya mategeko."
               },
               {
                 "number": "3.4",
                 "heading": "Ukuri kw'Amakuru",
-                "body": "Ugomba gutanga amakuru y'ukuri, ya mvaho, n'ayavugwa mu gihe c'iyandikwa no kurinzira ukuri kw'amakuru ayo mu gihe cose c'ikoreshwa rwawe rw'Urubuga. Gushira mu gacerere umuntu w'ukuri canke wo mu gacimbizi birabujijwe kandi bigize ubwiyandarike mu buryo bwa sumbano nk'uko bikubiye mu Ngingo ya 35 y'Itegeko Nshinga N°1/10 ryo ku wa 16 Ntwarante 2022 rigenga Iyaburizwa no Guhanwa kw'Ubwiyandarike mu buryo bwa sumbano mu Burundi, bihanwa n'imyaka 2 gushika 5 y'igifungo n'ihazabu ryo hagati ya miliyoni 10 na 20 BIF."
+                "body": "Ubwirizwa gutanga amakuru aramvuye, y'ukuri kandi y'imvaho mu gihe c'ukwiyandikisha no kubigumiza uko gihe cose c'ikoreshwa rwawe ry'Urubuga. Kwiba akarangamuntu k'umuntu aba uw'ukuri canke ntamube birabujijwe kandi bigize icaha mu buryo bwa none nk'uko biri mu Ngingo ya 35 y'Itegeko Nshinga N°1/10 ryo ku wa 16 Ntwarante 2022 rigenga Iyaburizwa no Guhanwa kw'Ubwiyandarike mu buryo bwa sumbano mu Burundi, bihanwa n'imyaka 2 gushika 5 y'igifungo n'ihazabu ryo hagati ya miliyoni 10 na 20 BIF."
               }
             ]
           },
@@ -645,7 +643,7 @@
               {
                 "number": "4.1",
                 "heading": "Umwimikira — Atari Uwafashe Uruhande mu Kugurisha",
-                "body": "Nguzo Marketplace ni urubuga rw'umwimikira rutabaye uruhande. Dutera inkunga amasezerano hagati y'Abatuzi n'Abaguzi. Nta co dufitaniye n'uguhana, indwi, canke amasezerano hagati y'Abakoresha. Uguhana kwose gukorwa hanze y'imbuga, mu mwanya, kandi n'uwatangiye kandi n'inaniza z'Abakoresha."
+                "body": "Nguzo Marketplace ni urubuga rw'umwimikira rutabaye uruhande. Dutera inkunga amasezerano hagati y'Abatuzi n'Abaguzi. Nta co dufitaniye n'uguhanahana, indwi, canke amasezerano hagati y'Abanywanyi. Uguhanahana kwose gukorwa hanze y'imbuga, mu mwanya, kandi n'uwatangiye kandi n'inaniza z'Abanywanyi."
               },
               {
                 "number": "4.2",
@@ -654,19 +652,19 @@
               },
               {
                 "number": "4.3",
-                "heading": "Nta Kugenzura Abakoresha canke Amatangazo",
-                "body": "Ntidugenzura indangamuntu z'Abakoresha canke ukuri kw'ibikubiye mu matangazo, uretse mu rugero ruto rweretswe mu nzira zacu zo gukurikira. Abakoresha ni bo bafata inshingano zo gukoresha ubushakashatsi bwabo mbere yo gusanganira canke kugurisha n'umukoresha wundi."
+                "heading": "Nta Kugenzura Abanywanyi canke Amatangazo",
+                "body": "Ntidugenzura indangamuntu z'Abanywanyi canke ukuri kw'contenu mu matangazo, uretse mu rugero ruto rweretswe mu nzira zacu zo gukurikira. Abanywanyi ni bo bafata inshingano zo gukoresha ubushakashatsi bwabo mbere yo gusanganira canke kugurisha n'Umunywanyi wundi."
               },
               {
                 "number": "4.4",
-                "heading": "Intorwa Nkubitsa y'Umukoresha",
-                "body": "Mu gutura Ibikubiye ku Rubuga, uha Nguzo Marketplace intorwa nkubitsa itagira gutunga, itabazwa, y'isi yose, ishorwa munsi kugira ngo bimikire, bikike, bisubirirwe, bihinduwe ubunini, bihinduwe inyandiko, kandi bishishwe ibyo Ibikubiye gusa mu ntumbero yo gutanga no kunozanya Serivisi. Iyi ntorwa irangira iyo Ibikubiye bisibwe, bivuye ku mabajwe y'ukugumana aseretswe mu Ngingo ya 9 no mu Politike yacu y'Intimba."
+                "heading": "Intorwa Nkubitsa y'Umunywanyi",
+                "body": "Mu gutura contenu ku Rubuga, uha Nguzo Marketplace intorwa nkubitsa itagira gutunga, itabazwa, y'isi yose, ishorwa munsi kugira ngo bimikire, bikike, bisubirirwe, bihinduwe ubunini, bihinduwe inyandiko, kandi bishishwe ibyo contenu gusa mu ntumbero yo gutanga no kunozanya Serivisi. Iyi ntorwa irangira iyo contenu bisibwe, bivuye ku mabajwe y'ukugumana aseretswe mu Ngingo ya 9 no mu Politike yacu y'Intimba."
               }
             ]
           },
           {
             "number": "5",
-            "heading": "Inshingano z'Abakoresha",
+            "heading": "Inshingano z'Abanywanyi",
             "subsections": [
               {
                 "number": "5.1",
@@ -676,23 +674,23 @@
                   "Gutura, kugurisha, gutangaza, canke gutera inkunga kugurisha ingingo iyo ari yo yose yabujijwe n'amategeko y'Uburundi canke izitajwe mu Ngingo ya 6 y'aya Mategeko.",
                   "Gunaniza ingene ingingo itanzwe imeze, kamere yayo, ukuri kwayo, canke ubuposita bwayo.",
                   "Kugira uruhande, gutera inkunga, canke gusaba uburyozwa bwose bwo kunyaga, harimo, ariko ntibirangirire, ingurane z'ishuru ryo mbere (zikunda gukorwa biciye kuri Lumicash canke izindi mbuga z'amafaranga ya telefoni).",
-                  "Gukanda, guhindira, gusabira, canke gutera inkunga Abakoresha bandi, haba biciye ku bubiko bw'ubutumwa mu porogramu canke mu buryo ubwo bwose.",
-                  "Gutura canke kohereza ibikubiye bishimishiriza agahinda, ubwoba, urwanko hagati y'amashirahamwe, canke bibuza umuntu gufata neza izina, mu gusuzuma Ingingo ya 42 y'Itegeko Nshinga N°1/10 ryo ku wa 16 Ntwarante 2022, bihanwa n'imyaka 5 gushika 10 y'igifungo n'ihazabu ryo hagati ya miliyoni 5 na 10 BIF.",
-                  "Kwiba, gukusanya, canke gushaka amakuru bwite y'Umukoresha atari we we wemeye.",
+                  "Gukanda, guhindira, gusabira, canke gutera inkunga Abanywanyi bandi, haba biciye ku bubiko bw'ubutumwa mu porogramu canke mu buryo ubwo bwose.",
+                  "Gutura canke kohereza contenu bishimishiriza agahinda, ubwoba, urwanko hagati y'amashirahamwe, canke bibuza umuntu gufata neza izina, mu gusuzuma Ingingo ya 42 y'Itegeko Nshinga N°1/10 ryo ku wa 16 Ntwarante 2022, bihanwa n'imyaka 5 gushika 10 y'igifungo n'ihazabu ryo hagati ya miliyoni 5 na 10 BIF.",
+                  "Kwiba, gukusanya, canke gushaka amakuru bwite y'Umunywanyi atari we we wemeye.",
                   "Gukoresha ibicuma, ibikoresho vyo gutonora, canke inzira zikora zokora kugira ngo zinjire, kopere, canke zerekane amakuru y'Urubuga.",
                   "Kugira ngo uhagaragaze, guhindura nka za mudasobwa, gukimba ingoro z'umutekano, canke guhagarika ikorwa rya Urubuga canke inzira zarwo, mu gusuzuma Igice ca 3 c'Itegeko Nshinga N°1/10 ryo ku wa 16 Ntwarante 2022.",
-                  "Gufungura amakonto mu ntumbero yo gukina Amanota y'Icizigiro, kuzura Urubuga n'amatangazo ya nkamwe, canke guhungabanya Abakoresha bandi."
+                  "Gufungura amakonti mu ntumbero yo gukina Amanota y'Ubwizigirwa, kuzura Urubuga n'amatangazo ya nkamwe, canke guhungabanya Abanywanyi bandi."
                 ]
               },
               {
                 "number": "5.2",
                 "heading": "Ukuri kw'Amatangazo",
-                "body": "Abaguzi b'ibicuruzwa bagomba kuvuga ivy'ingingo neza no bugime. Guhisha amakemwa azwi, gunaniza impano, intandaro, canke ingene ingingo itanzwe imeze, canke gutanga amakuru y'agaciro ya nkamwe bisobanura kuvunanako aya Mategeko kandi bishobora kubyara inshingano z'ubutunzi mu mategeko y'agaciro ya Uburundi."
+                "body": "Abaguzi b'ibicuruzwa bagomba kuvuga ivy'ibicuruzwa neza no bugime. Guhisha amakemwa azwi, gunaniza impano, intandaro, canke ingene igicuruzwa itanzwe imeze, canke gutanga amakuru y'agaciro ya nkamwe bisobanura kuvunanako aya Mategeko kandi bishobora kubyara inshingano z'ubutunzi mu mategeko y'agaciro ya Uburundi."
               },
               {
                 "number": "5.3",
                 "heading": "Umutekano mu Gusanganira",
-                "body": "Amahuriro yose y'umwanya hagati y'Abakoresha yategurwa ku bushake bwabo no kuzimanaho kwabo. Nguzo Marketplace irashigikira cane Abakoresha:",
+                "body": "Amahuriro yose y'umwanya hagati y'Abanywanyi yategurwa ku bushake bwabo no kuzimanaho kwabo. Nguzo Marketplace irashigikira cane Abanywanyi:",
                 "items": [
                   "Gusanganira mu mwanya wa rubanda, aho abantu benshi baba.",
                   "Kuza n'umuntu wizigirwa mu isanganiro.",
@@ -706,8 +704,8 @@
           },
           {
             "number": "6",
-            "heading": "Ibicuruzwa n'Ibikubiye Bibujijwe",
-            "intro": "Inzego zikurikira z'ibicuruzwa n'ibikubiye zibujijwe cane kandi burundu ku Rubuga. Iyi rutonde ni isobanuro kandi ntiguye: Nguzo Marketplace irashobora gukura ibikubiye biyo bishobokeza.",
+            "heading": "Ibicuruzwa n'contenu Bibujijwe",
+            "intro": "Inzego zikurikira z'ibicuruzwa n'contenu zibujijwe cane kandi burundu ku Rubuga. Iyi rutonde ni isobanuro kandi ntiguye: Nguzo Marketplace irashobora gukura contenu biyo bishobokeza.",
             "subsections": [
               {
                 "number": "6.1",
@@ -717,7 +715,7 @@
                   "Intwaro, ibibundo, ibitumbatumba, n'ibikoresho bivyo.",
                   "Imvura, ingerakamaro, impeta, ibikoresho, n'ibikoresho vya gisirikari canke polisi.",
                   "Ingingo iyo ari yo yose kugurisha canke kuyigumana bigize ingorane ku mutekano w'igihugu canke kimuli.",
-                  "Ibikubiye bishimishiriza agahinda canke ubuhirikano bushinga leta."
+                  "contenu bishimishiriza agahinda canke ubuhirikano bushinga leta."
                 ]
               },
               {
@@ -757,14 +755,14 @@
                 "body": "Bibujijwe mu Ngingo 35, 61–63 z'Itegeko Nshinga N°1/10 ryo ku wa 16 Ntwarante 2022:",
                 "items": [
                   "Itangazo riyo ari ryo ryose canke ubutumwa buteguriwe gutera inkunga ubushurutso bw'indangamuntu canke kugabisha mu buryo bwa nkamwe.",
-                  "Ibikubiye bikanda, bihindira, canke bishinja umuntu runaka.",
-                  "Ibikubiye birebana n'ikoreshwa mbi, gutera ingorane, canke kwumenyesha mu buryo bw'ubusambanyi bw'abana."
+                  "contenu bikanda, bihindira, canke bishinja umuntu runaka.",
+                  "contenu birebana n'ikoreshwa mbi, gutera ingorane, canke kwumenyesha mu buryo bw'ubusambanyi bw'abana."
                 ]
               },
               {
                 "number": "6.6",
                 "heading": "Ikibujijwe Rusangi",
-                "body": "Ingingo iyo ari yo yose canke ibikubiye binya amategeko abishe y'Uburundi bibujijwe, harimo ibintu bibujijwe mu mategeko ya Codicile Pénal y'Uburundi (Itegeko Nshinga N°1/05 ryo ku wa 22 Ndamukiza 2009 n'impinduka zakurikiye), Itegeko ryo Guhanwa kw'Ubwiyandarike mu buryo bwa sumbano (Itegeko Nshinga N°1/10 ryo ku wa 16 Ntwarante 2022), n'amategeko yose ashoboka y'urwego."
+                "body": "Ingingo iyo ari yo yose canke contenu binya amategeko abishe y'Uburundi bibujijwe, harimo ibintu bibujijwe mu mategeko ya Codicile Pénal y'Uburundi (Itegeko Nshinga N°1/05 ryo ku wa 22 Ndamukiza 2009 n'impinduka zakurikiye), Itegeko ryo Guhanwa kw'Ubwiyandarike mu buryo bwa sumbano (Itegeko Nshinga N°1/10 ryo ku wa 16 Ntwarante 2022), n'amategeko yose ashoboka y'urwego."
               }
             ]
           },
@@ -775,60 +773,60 @@
               {
                 "number": "7.1",
                 "heading": "Inzira yo Gutanga Inkuru",
-                "body": "Umukoresha wese arashobora gutanga inkuru ku tangazo, ubutumwa, canke Umukoresha wundi mu gukoresha ikintu co gutanga inkuru mu porogramu. Inkuru zisuzumwa kandi ziharurwa nk'uko ugukurikira bishingiye ku mpaka zigenga."
+                "body": "Umunywanyi wese arashobora gutanga inkuru ku tangazo, ubutumwa, canke Umunywanyi wundi mu gukoresha ikintu co gutanga inkuru mu porogramu. Inkuru zisuzumwa kandi ziharurwa nk'uko ugukurikira bishingiye ku mpaka zigenga."
               },
               {
                 "number": "7.2",
                 "heading": "Ingero yo Gushyira mu Bikorwa",
-                "body": "Umukiriya w'inkuru canke kumenya gusuzuma biciye mu buryo bwakoze canke bw'umuntu, Nguzo Marketplace ikoresha ingero y'igisubizo ishingiye ku mpaka, kuva ku bihano vya amanota y'icizigiro (NTOYA) gushika mu gusunika vuba n'isuzumwa ry'inzego (HAGATI/HEJURU), gushika ku gufunga vuba no gutunga mu buryo bw'amategeko (IKIMERO), nk'uko ibice n'uburemere bw'isuzumwa bibitegeka."
+                "body": "Umukiriya w'inkuru canke kumenya gusuzuma biciye mu buryo bwakoze canke bw'umuntu, Nguzo Marketplace ikoresha ingero y'igisubizo ishingiye ku mpaka, kuva ku bihano vya amanota y'Ubwizigirwa (NTOYA) gushika mu gusunika vuba n'isuzumwa ry'inzego (HAGATI/HEJURU), gushika ku gufunga vuba no gutunga mu buryo bw'amategeko (IKIMERO), nk'uko ibice n'uburemere bw'isuzumwa bibitegeka."
               },
               {
                 "number": "7.3",
                 "heading": "Gutunga mu Buryo bw'Amategeko",
-                "body": "« Gutunga mu buryo bw'amategeko » bisobanura ko ikonto n'amakuru yose ahuye nayo yafunzwe kandi yarinzwe mu nzira zabo z'ubu. Ayo makuru ashobora gutangwa kuri Polisi y'Uburundi (OPJ) canke ARCT hahejeje gutanga irondoka isanzwe canke itegeko ry'urukiko, nk'uko Itegeko Nshinga N°1/10 ryo ku wa 16 Ntwarante 2022 n'inzira zishoboka z'ubuhemu bw'Uburundi bibitegeka."
+                "body": "« Gutunga mu buryo bw'amategeko » bisobanura ko ikonti n'amakuru yose ahuye nayo yafunzwe kandi yarinzwe mu nzira zabo z'ubu. Ayo makuru ashobora gutangwa kuri Polisi y'Uburundi (OPJ) canke ARCT hahejeje gutanga irondoka isanzwe canke itegeko ry'urukiko, nk'uko Itegeko Nshinga N°1/10 ryo ku wa 16 Ntwarante 2022 n'inzira zishoboka z'ubuhemu bw'Uburundi bibitegeka."
               },
               {
                 "number": "7.4",
-                "heading": "Amanota y'Icizigiro",
-                "body": "Amanota y'Icizigiro ni ingero y'imbere irerekana akamaro k'ingendo z'Umukoresha ku Rubuga. Ntabwo ari isuzumwa ry'ubushobozi bw'imari kandi ntafite ingaruka z'amategeko hanze y'Urubuga. Nguzo Marketplace iririnda gutunga uburenganzira bwo guhindura canke guhagarika inzira y'Amanota y'Icizigiro igihe cose atari na rumwe nje y'itangazo."
+                "heading": "Amanota y'Ubwizigirwa",
+                "body": "Amanota y'Ubwizigirwa ni ingero y'imbere irerekana akamaro k'ingendo z'Umunywanyi ku Rubuga. Ntabwo ari isuzumwa ry'ubushobozi bw'imari kandi ntafite ingaruka z'amategeko hanze y'Urubuga. Nguzo Marketplace iririnda gutunga uburenganzira bwo guhindura canke guhagarika inzira y'Amanota y'Ubwizigirwa igihe cose atari na rumwe nje y'itangazo."
               },
               {
                 "number": "7.5",
                 "heading": "Uburenganzira bwo Gukura no Guhagarika",
-                "body": "Nguzo Marketplace iririnda gutunga uburenganzira bwo gukura Ibikubiye biyo, guhagarika ikonto riyo ari ryo ryose, canke gubuza burundu Umukoresha wese n'ubushake bwayo bwite, hamwe canke hatari na rumwe itangazo riherutse, no mu mpamvu iyo ari yo yose, harimo ingendo izitajwe cane mu mategeko ariko twibwira ko inyujije Abakoresha, Urubuga, canke rusangi."
+                "body": "Nguzo Marketplace iririnda gutunga uburenganzira bwo gukura contenu biyo, guhagarika ikonti riyo ari ryo ryose, canke gubuza burundu Umunywanyi wese n'ubushake bwayo bwite, hamwe canke hatari na rumwe itangazo riherutse, no mu mpamvu iyo ari yo yose, harimo ingendo izitajwe cane mu mategeko ariko twibwira ko inyujije Abanywanyi, Urubuga, canke rusangi."
               }
             ]
           },
           {
             "number": "8",
-            "heading": "Guhagarika no Gusiba Ikonto",
+            "heading": "Guhagarika no Gusiba Ikonti",
             "subsections": [
               {
                 "number": "8.1",
                 "heading": "Gusiba ku Bushake",
-                "body": "Abakoresha barashobora gusiba ikonto ryabo igihe cose biciye ku ngorwa z'ikonto mu porogramu. Iyo basaba gusiba:",
+                "body": "Abanywanyi barashobora gusiba ikonti ryabo igihe cose biciye ku ngorwa z'ikonti mu porogramu. Iyo basaba gusiba:",
                 "items": [
-                  "Igihe co gusubira inyuma c'iminsi 30 gitangura, mu gihe ikonto rihagaritswe ariko rishobora gusubizwa.",
-                  "Umukoresha afungurwa ako kanya kandi ntashobora kwinjira ku Rubuga mu gihe ico.",
-                  "Irangira ry'igihe co gusubira inyuma, ikonto n'amakuru bwite ahuye nayo asibwa burundu canke asigwa hatari umuntu, bivuye ku mabajwe y'ukugumana aseretswe mu Ngingo ya 9."
+                  "Igihe co gusubira inyuma c'iminsi 30 gitangura, mu gihe ikonti rihagaritswe ariko rishobora gusubizwa.",
+                  "Umunywanyi afungurwa ako kanya kandi ntashobora kwinjira ku Rubuga mu gihe ico.",
+                  "Irangira ry'igihe co gusubira inyuma, ikonti n'amakuru bwite ahuye nayo asibwa burundu canke asigwa hatari umuntu, bivuye ku mabajwe y'ukugumana aseretswe mu Ngingo ya 9."
                 ]
               },
               {
                 "number": "8.2",
                 "heading": "Guhagarika Gushingirwa",
-                "body": "Nguzo Marketplace irashobora guhagarika amakonto mu buryo bw'isi yose kubera gusuzuma aya Mategeko. Gusuzuma ku rwego rw'ikimero bishobora gutuma hafatwa ingingo yo guhagarika vuba burundu atari na rumwe itangazo riherutse."
+                "body": "Nguzo Marketplace irashobora guhagarika amakonti mu buryo bw'isi yose kubera gusuzuma aya Mategeko. Gusuzuma ku rwego rw'ikimero bishobora gutuma hafatwa ingingo yo guhagarika vuba burundu atari na rumwe itangazo riherutse."
               },
               {
                 "number": "8.3",
                 "heading": "Ingaruka ku Matangazo no ku Butumwa",
-                "body": "Ikonto risibwe, amatangazo akora akurwa. Ubutumwa bushobora kwigwa hamwe (indangamuntu y'uwoherereje isubirwa na 'Umukoresha Yasibwe') kugira ngo bivuye neza inzira z'ikiganiro c'Abakoresha bandi, aho kwisibwa burundu."
+                "body": "Ikonti risibwe, amatangazo akora akurwa. Ubutumwa bushobora kwigwa hamwe (indangamuntu y'uwoherereje isubirwa na 'Umunywanyi Yasibwe') kugira ngo bivuye neza inzira z'ikiganiro c'Abanywanyi bandi, aho kwisibwa burundu."
               }
             ]
           },
           {
             "number": "9",
-            "heading": "Ukugumana Amakuru Nyuma yo Gusiba Ikonto",
-            "body": "Naho ikonto risibwe, Nguzo Marketplace irashobora kugumana amakuru akurikira mu bihe bivugwa: metadata y'ikonto (UID, hash y'imeri) gushika imyaka 2; amatangazo ashyizwe mu impaka z'akindi gihe mu gihe c'impaka n'amezi 6; imilango ya chat iri mu nkuru zifunguye canke isuzumwa gushika imyaka 2; amateka y'ihungabana n'indirimbo z'amakosa ya tekiniki nk'uko politike ya Google/Firebase ibitegeka."
+            "heading": "Ukugumana Amakuru Nyuma yo Gusiba Ikonti",
+            "body": "Naho ikonti risibwe, Nguzo Marketplace irashobora kugumana amakuru akurikira mu bihe bivugwa: metadata y'ikonti (UID, hash y'imeri) gushika imyaka 2; amatangazo ashyizwe mu impaka z'akindi gihe mu gihe c'impaka n'amezi 6; imilango ya chat iri mu nkuru zifunguye canke isuzumwa gushika imyaka 2; amateka y'ihungabana n'indirimbo z'amakosa ya tekiniki nk'uko politike ya Google/Firebase ibitegeka."
           },
           {
             "number": "10",
@@ -837,15 +835,15 @@
               {
                 "number": "10.1",
                 "heading": "Serivisi nk'uko iri",
-                "body": "Urubuga n'Serivisi zose zitangwa « nk'uko ziri » no « nk'uko ziboneka » hatari ingwano y'ubwoko ubwo bwose, yavuzwe canke yumvwa. Ntidukurikirana ko Urubuga ruzobaho burundu, ruyobe amakosa, canke ruzinda ibikubiye bibi bikoherejwe n'ababandi."
+                "body": "Urubuga n'Serivisi zose zitangwa « nk'uko ziri » no « nk'uko ziboneka » hatari ingwano y'ubwoko ubwo bwose, yavuzwe canke yumvwa. Ntidukurikirana ko Urubuga ruzobaho burundu, ruyobe amakosa, canke ruzinda contenu bibi bikoherejwe n'ababandi."
               },
               {
                 "number": "10.2",
                 "heading": "Gusezera Inshingano",
                 "body": "Mu rugero rwemerewe cane n'amategeko ya Republika y'Uburundi, Nguzo Marketplace ntizofata inshingano iyo ari yo yose ku birebana na:",
                 "items": [
-                  "Ukuri, amategeko, canke ubuziranenge bw'itangazo riyo ari ryo ryose canke ibikubiye bikomoka ku Bakoresha.",
-                  "Ingorane iyo ari yo yose, ubushurutso, ubunyamacakubiri, ivuniro, canke ingorane ivuye mu gusanganira hagati y'Abakoresha.",
+                  "Ukuri, amategeko, canke ubuziranenge bw'itangazo riyo ari ryo ryose canke contenu bikomoka ku Banywanyi.",
+                  "Ingorane iyo ari yo yose, ubushurutso, ubunyamacakubiri, ivuniro, canke ingorane ivuye mu gusanganira hagati y'Abanywanyi.",
                   "Gutakaza imari bivuye mu kugurisha, amafaranga, canke impinduka ikorwa hanze y'Urubuga.",
                   "Guhagarika serivisi biterwa n'ibikorwa hanze y'ubushobozi bwacu bwuzuye, harimo ingorane z'itumanaho, ingendo ya leta, canke ingorane z'inguvu y'Imana."
                 ]
@@ -871,7 +869,6 @@
             "heading": "Amakuru y'Itumanahano",
             "items": [
               { "label": "Izina rya Urubuga", "text": "Nguzo" },
-              { "label": "Aderesi", "text": "Bujumbura, Republika y'Uburundi" },
               { "label": "Amatangazo y'Amategeko", "text": "nguzo.official@gmail.com" },
               { "label": "Inkunga Rusangi", "text": "support.nguzo@gmail.com" }
             ]
@@ -882,7 +879,7 @@
     "privacy": {
       "en": {
         "title": "Privacy Policy",
-        "subtitle": "Governed by the Laws of the Republic of Burundi",
+        "subtitle": "Republic of Burundi · Data Protection Law (January 2026) · Law N°1/10 of 16 March 2022",
         "sections": [
           {
             "number": "1",
@@ -901,7 +898,6 @@
             "heading": "Data Controller",
             "items": [
               { "label": "Controller", "text": "Nguzo" },
-              { "label": "Address", "text": "Bujumbura, Republic of Burundi" },
               { "label": "Data Protection Contact", "text": "nguzo.official@gmail.com" }
             ],
             "footer": "You may contact our data protection contact for any question, request, or complaint related to the processing of your personal data."
@@ -1018,8 +1014,7 @@
             "heading": "Contact and Complaints",
             "items": [
               { "label": "Data Protection Contact", "text": "nguzo.official@gmail.com" },
-              { "label": "General Support", "text": "support.nguzo@gmail.com" },
-              { "label": "Address", "text": "Bujumbura, Republic of Burundi" }
+              { "label": "General Support", "text": "support.nguzo@gmail.com" }
             ],
             "footer": "If you believe your privacy rights have been violated and we have not adequately addressed your concern, you have the right to lodge a complaint with the Burundian Data Protection Authority once it is constituted under the January 2026 Data Protection Law."
           }
@@ -1046,7 +1041,6 @@
             "heading": "Responsable du Traitement",
             "items": [
               { "label": "Responsable", "text": "Nguzo" },
-              { "label": "Adresse", "text": "Bujumbura, République du Burundi" },
               { "label": "Contact Protection des Données", "text": "nguzo.official@gmail.com" }
             ],
             "footer": "Vous pouvez contacter notre délégué à la protection des données pour toute question, demande ou plainte relative au traitement de vos données personnelles."
@@ -1163,8 +1157,7 @@
             "heading": "Contact et Réclamations",
             "items": [
               { "label": "Contact Protection des Données", "text": "nguzo.official@gmail.com" },
-              { "label": "Assistance Générale", "text": "support.nguzo@gmail.com" },
-              { "label": "Adresse", "text": "Bujumbura, République du Burundi" }
+              { "label": "Assistance Générale", "text": "support.nguzo@gmail.com" }
             ],
             "footer": "Si vous estimez que vos droits en matière de confidentialité ont été violés et que nous n'avons pas répondu de manière adéquate à votre préoccupation, vous avez le droit de déposer une plainte auprès de l'Autorité burundaise de Protection des Données une fois qu'elle sera constituée en vertu de la Loi sur la Protection des Données de janvier 2026."
           }
@@ -1172,12 +1165,12 @@
       },
       "rn": {
         "title": "Politike y'Intimba",
-        "subtitle": "Republika y'Uburundi · Itegeko ryo Kurinda Amakuru (Nzero 2026) · Itegeko Nshinga N°1/10 ryo ku wa 16 Ntwarante 2022",
+        "subtitle": "Bigengwa n’amategeko y’Igihugu c’Uburundi",
         "sections": [
           {
             "number": "1",
             "heading": "Intangamarara n'Ingoro y'Amategeko",
-            "body": "Nguzo Marketplace (« twe », « iwacu ») iremerwa kugira ngo irinze intimba n'amakuru bwite y'Abakoresha bose ba Urubuga mu buryo buhuye n'amategeko ya Republika y'Uburundi n'ingero z'isi yose zishoboka.\n\nIyi Politike y'Intimba ishingiye ku bibanza vy'amategeko bikurikira:",
+            "body": "Nguzo Marketplace (« twe », « iwacu ») iremerwa kugira ngo irinze intimba n'amakuru bwite y'Abanywanyi bose ba Urubuga mu buryo buhuye n'amategeko ya Republika y'Uburundi n'ingero z'isi yose zishoboka.\n\nIyi Politike y'Intimba ishingiye ku bibanza vy'amategeko bikurikira:",
             "items": [
               "Itegeko ryo Kurinda Amakuru Bwite rya Uburundi ryemejwe n'Inama Nkenguzamateka ku wa 15 Nzero 2026, ryemeza ingero nyunvikana yo gukusanya, gukurikirana, no kurinda amakuru bwite, rishinzwe Urwego rw'Ubwisanzure rwo Kurinda Amakuru, kandi ryinjiza ihazabu ry'ubuhemu ku bisuzumwa.",
               "Itegeko Nshinga N°1/10 ryo ku wa 16 Ntwarante 2022 rigenga Iyaburizwa no Guhanwa kw'Ubwiyandarike mu buryo bwa sumbano, rigena amakuru bwite (Ingingo ya 2(8)) kandi risabira inshingano abashinzwe serivisi n'ababika itumanahano (Ingingo 14–15) no kurinda intimba (Ingingo 61–63).",
@@ -1191,7 +1184,6 @@
             "heading": "Uwifashe Inshingano z'Amakuru",
             "items": [
               { "label": "Uwifashe Inshingano", "text": "Nguzo" },
-              { "label": "Aderesi", "text": "Bujumbura, Republika y'Uburundi" },
               { "label": "Itumanahano ryo Kurinda Amakuru", "text": "nguzo.official@gmail.com" }
             ],
             "footer": "Urashobora gutumanikira utumanahano twacu two kurinda amakuru ku kibazo ico ari co cose, isaba, canke ikirego girebana no gukurikirana amakuru yawe bwite."
@@ -1203,12 +1195,12 @@
               {
                 "number": "3.1",
                 "heading": "Amakuru Utanga Mu Buryo Bwa Segitwa",
-                "body": "Dukusanya amakuru akurikira utanga mu buryo bwa segitwa: indangamuntu y'ikonto (aderesi imeri, izina ryerekana, ifoto ya profile, itariki yo gufungura ikonto) kubifasha mu gufungura ikonto no gukumira ubunyamacakubiri; amakuru y'itangazo (umutwe, ibisobanuro, igiciro, amafoto, uburyo bwa GPS mu gihe c'iturika) kubifasha mu kwerekana amatangazo no guha umuntu ubushakashatsi bw'agace; ubutumwa (ibikubiye, amakuru y'uwoherereje, amasaha) kubifasha mu gutumanikira no gusuzuma inkuru z'umutekano; n'ibikorwa vy'umukoresha (amatangazo yabitswe, umubare w'amatangazo) kubifasha mu kubikoranya no kugira ngo bihuye n'amategeko."
+                "body": "Dukusanya amakuru akurikira utanga mu buryo bwa segitwa: indangamuntu y'ikonti (aderesi imeri, izina ryerekana, ifoto ya profile, itariki yo gufungura ikonti) kubifasha mu gufungura ikonti no gukumira ubunyamacakubiri; amakuru y'itangazo (umutwe, ibisobanuro, igiciro, amasanamu, uburyo bwa GPS mu gihe c'iturika) kubifasha mu kwerekana amatangazo no guha umuntu ubushakashatsi bw'agace; ubutumwa (contenu, amakuru y'uwoherereje, amasaha) kubifasha mu gutumanikira no gusuzuma inkuru z'umutekano; n'ibikorwa vy'Umunywanyi (amatangazo yabitswe, umubare w'amatangazo) kubifasha mu kubikoranya no kugira ngo bihuye n'amategeko."
               },
               {
                 "number": "3.2",
                 "heading": "Amakuru Akusanywa Mu Kuzamura Biciye ku Serivisi z'Ababandi",
-                "body": "Dukusanya amakuru mu kuzamura biciye kuri: Firebase Analytics (Google LLC) kubifasha mu kunoza ibikorwa vya porogramu n'uburemere bw'ikoreshwa; Firebase Authentication (Google LLC) kubifasha mu gucunga umwinjiro w'umutekano; Firebase Crashlytics (Google LLC) kubifasha mu kumenya no gukosora amakosa ya tekiniki; na Cloudinary (Cloudinary Ltd) kubifasha mu kubika no kohereza amafoto biciye kuri CDN."
+                "body": "Dukusanya amakuru mu kuzamura biciye kuri: Firebase Analytics (Google LLC) kubifasha mu kunoza ibikorwa vya porogramu n'uburemere bw'ikoreshwa; Firebase Authentication (Google LLC) kubifasha mu gucunga umwinjiro w'umutekano; Firebase Crashlytics (Google LLC) kubifasha mu kumenya no gukosora amakosa ya tekiniki; na Cloudinary (Cloudinary Ltd) kubifasha mu kubika no kohereza amasanamu biciye kuri CDN."
               }
             ]
           },
@@ -1228,7 +1220,7 @@
             "heading": "Ishingiro ry'Amategeko ryo Gukurikirana",
             "body": "Nk'uko bihuye n'Itegeko ryo Kurinda Amakuru Bwite rya Uburundi (Nzero 2026) n'amahame avuye mu Ngingo 61–63 z'Itegeko Nshinga N°1/10 ryo ku wa 16 Ntwarante 2022, dushingira ku bishingiro vy'amategeko bikurikira:",
             "items": [
-              { "label": "Gushyira mu bikorwa amasezerano", "text": "Gukurikirana bikenewe gutanga Serivisi wasabye — gufungura ikonto, kwerekana amatangazo, gutumanikira." },
+              { "label": "Gushyira mu bikorwa amasezerano", "text": "Gukurikirana bikenewe gutanga Serivisi wasabye — gufungura ikonti, kwerekana amatangazo, gutumanikira." },
               { "label": "Inyungu isanzwe", "text": "Gukumira ubunyamacakubiri, umutekano wa rubuga, isuzumwa ry'ihungabana, no gushyira mu bikorwa aya Mategeko — bivuye burundu ku burenganzira bwawe nshingiro n'ubwisanzure." },
               { "label": "Kwemera", "text": "Gukusanya amakuru y'ahantu ha GPS. Urashobora gusubiza inyuma kwemera kwawe igihe cose utabuza ubuzi bw'ugukurikirana kw'imbere." },
               { "label": "Inshingano z'amategeko", "text": "Kugira ngo bihuye n'ibisabwa bisanzwe biva ku nzego z'amategeko z'Uburundi (OPJ) canke ARCT, nk'uko Itegeko Nshinga N°1/10 ryo ku wa 16 Ntwarante 2022 n'amategeko ashoboka y'inzira z'ubuhemu bibitegeka." }
@@ -1241,7 +1233,7 @@
               {
                 "number": "6.1",
                 "heading": "Abakurikirana Amakuru",
-                "body": "Dusangira amakuru bwite n'abashinzwe serivisi bakurikira, gusa ku ntumbero zivugwa muri iyi Politike no mu mabajwe y'amasezerano yo gukurikirana amakuru: Google LLC (serivisi za Firebase: Authentication, Firestore, Analytics, Crashlytics) — amaseva ashobora kuba hanze y'Uburundi; Cloudinary Ltd — kubika no kohereza amafoto."
+                "body": "Dusangira amakuru bwite n'abashinzwe serivisi bakurikira, gusa ku ntumbero zivugwa muri iyi Politike no mu mabajwe y'amasezerano yo gukurikirana amakuru: Google LLC (serivisi za Firebase: Authentication, Firestore, Analytics, Crashlytics) — amaseva ashobora kuba hanze y'Uburundi; Cloudinary Ltd — kubika no kohereza amasanamu."
               },
               {
                 "number": "6.2",
@@ -1258,12 +1250,12 @@
           {
             "number": "7",
             "heading": "Gukura Amakuru Hanze y'Imipaka",
-            "body": "Amakuru yawe bwite abikwa ku maseva akoresha Google LLC (Firebase) na Cloudinary Ltd, ashobora kuba hanze ya Republika y'Uburundi.\n\nMu gufungura ikonto no gukoresha Urubuga, wemereza burundu kandi uremera ko amakuru atangwa hanze y'imipaka. Durinzira ko abashinzwe serivisi bacu bagumana ingoro z'umutekano zihuye n'ingero z'inganda, harimo guturika kwa AES-256 mu bwire no TLS mu guturika.\n\nIgihe amabwiriza y'ishyirwa mu bikorwa mu mategeko y'amakuru ya Nzero 2026 azashyirwa, tuzahindura inzira zacu zo kohereza kugira ngo bihuye burundu."
+            "body": "Amakuru yawe bwite abikwa ku maseva akoresha Google LLC (Firebase) na Cloudinary Ltd, ashobora kuba hanze ya Republika y'Uburundi.\n\nMu gufungura ikonti no gukoresha Urubuga, wemereza burundu kandi uremera ko amakuru atangwa hanze y'imipaka. Durinzira ko abashinzwe serivisi bacu bagumana ingoro z'umutekano zihuye n'ingero z'inganda, harimo guturika kwa AES-256 mu bwire no TLS mu guturika.\n\nIgihe amabwiriza y'ishyirwa mu bikorwa mu mategeko y'amakuru ya Nzero 2026 azashyirwa, tuzahindura inzira zacu zo kohereza kugira ngo bihuye burundu."
           },
           {
             "number": "8",
             "heading": "Igihe Dukiga Amakuru Yawe",
-            "body": "Dukiga: amakuru y'ikonto na profile gushika gusibwa kw'ikonto n'igihe co gusubira inyuma c'iminsi 30; amatangazo akora gushika gusibwa burundu kw'ikonto ry'Umutuzi; ubutumwa rusangi gushika amakonto y'ababandi bombi asibwe, hanyuma asigwa hatari umuntu; ubutumwa bushyizwe mu nkuru zifunguye canke isuzumwa gushika imyaka 2; metadata y'ikonto (amateka y'ubunyamacakubiri/umutekano) gushika imyaka 2 nyuma yo gusibwa; amateka y'ihungabana nk'uko politike ya Google/Firebase ibitegeka."
+            "body": "Dukiga: amakuru y'ikonti na profile gushika gusibwa kw'ikonti n'igihe co gusubira inyuma c'iminsi 30; amatangazo akora gushika gusibwa burundu kw'ikonti ry'Umutuzi; ubutumwa rusangi gushika amakonti y'ababandi bombi asibwe, hanyuma asigwa hatari umuntu; ubutumwa bushyizwe mu nkuru zifunguye canke isuzumwa gushika imyaka 2; metadata y'ikonti (amateka y'ubunyamacakubiri/umutekano) gushika imyaka 2 nyuma yo gusibwa; amateka y'ihungabana nk'uko politike ya Google/Firebase ibitegeka."
           },
           {
             "number": "9",
@@ -1282,7 +1274,7 @@
           {
             "number": "10",
             "heading": "Kurinda Intimba y'Abana",
-            "body": "Urubuga rugenewe cane abatuzi bafise nibura imyaka 18. Ntitwakusanya kandi ntitubike amakuru bwite y'abana.\n\nNusanga Umukoresha afise munsi y'imyaka 18, tuzahagarika vuba kandi burundu ikonto no gusiba amakuru yose bwite ahuye nayo, nk'uko inshingano zacu mu ngingo ya 3.1 y'Amategeko y'Ikoreshwa n'amahame y'uburindi kurinda abana bishoboka bibitegeka.\n\nNusanga umwana akoresha Urubuga, tanga inkuru vuba biciye kuri support.nguzo@gmail.com."
+            "body": "Urubuga rugenewe cane abatuzi bafise nibura imyaka 18. Ntitwakusanya kandi ntitubike amakuru bwite y'abana.\n\nNusanga Umunywanyi afise munsi y'imyaka 18, tuzahagarika vuba kandi burundu ikonti no gusiba amakuru yose bwite ahuye nayo, nk'uko inshingano zacu mu ngingo ya 3.1 y'Amategeko y'Ikoreshwa n'amahame y'uburindi kurinda abana bishoboka bibitegeka.\n\nNusanga umwana akoresha Urubuga, tanga inkuru vuba biciye kuri support.nguzo@gmail.com."
           },
           {
             "number": "11",
@@ -1291,7 +1283,7 @@
             "items": [
               { "label": "Guturika mu guturika", "text": "Amakuru yose yoherezwa hagati y'igikoresho cawe n'amaseva yacu aguturitswa biciye kuri TLS (Transport Layer Security)." },
               { "label": "Guturika mu bwire", "text": "Amakuru abitswe muri Firebase Firestore na Google Cloud aguturitswa mu bwire biciye kuri AES-256." },
-              { "label": "Ugucunga kwinjira", "text": "Kwinjira mu bikubiye by'ubutumwa bikurikirwa gusa n'abakozi bemewe bo gukurikira kandi gusa mu nzira y'isuzumwa ry'umutekano rikora nyuma y'inkuru y'umukoresha. Kwinjira kwose nk'ubwo kuguma kubikwa." },
+              { "label": "Ugucunga kwinjira", "text": "Kwinjira mu bikubiye by'ubutumwa bikurikirwa gusa n'abakozi bemewe bo gukurikira kandi gusa mu nzira y'isuzumwa ry'umutekano rikora nyuma y'inkuru y'Umunywanyi. Kwinjira kwose nk'ubwo kuguma kubikwa." },
               { "label": "Umutekano w'inyishu", "text": "Dukoresha Firebase Authentication hamwe n'umwinjiro w'urunigi rwa imeri udahitiye ijambo banga, bibuza inzira zose z'igitero bishingiye ku majambo banga." },
               { "label": "Amabwiriza y'umutekano wa Firestore", "text": "Kwinjira kwa database kurinzwe n'amabwiriza y'umutekano ashingiye ku mirimo ibuza gusoma canke kwandika atemewe." },
               { "label": "Kumenyesha isuzumwa ry'ubushurutso", "text": "Mu gihe c'isuzumwa ry'amakuru bwite ry'ib ingoga, tuzamenyesha Urwego rw'Ubwisanzure rw'Uburundi rwo Kurinda Amakuru mu masaha 72 uhereye igihe twabibonye, nk'uko Itegeko ryo Kurinda Amakuru rya Nzero 2026 bibitegeka." }
@@ -1301,15 +1293,14 @@
           {
             "number": "12",
             "heading": "Impinduka muri Iyi Politike",
-            "body": "Turashobora guhindura iyi Politike y'Intimba nk'uko bisabwa n'impinduka mu mategeko, Serivisi zacu, canke ingendo zacu z'amakuru. Impinduka z'ingenzi zizomenyeshwa biciye ku menyesha mu porogramu no, iyo bishoboka, biciye kuri imeri kuri aderesi y'ikonto ryawe.\n\nGukurikiza ikoreshwa rw'Urubuga nyuma yo gufatwa igihe gitangira Politike ihindutse bisobanura kwemera amategeko ahindutse."
+            "body": "Turashobora guhindura iyi Politike y'Intimba nk'uko bisabwa n'impinduka mu mategeko, Serivisi zacu, canke ingendo zacu z'amakuru. Impinduka z'ingenzi zizomenyeshwa biciye ku menyesha mu porogramu no, iyo bishoboka, biciye kuri imeri kuri aderesi y'ikonti ryawe.\n\nGukurikiza ikoreshwa rw'Urubuga nyuma yo gufatwa igihe gitangira Politike ihindutse bisobanura kwemera amategeko ahindutse."
           },
           {
             "number": "13",
             "heading": "Itumanahano n'Ikirego",
             "items": [
               { "label": "Itumanahano ryo Kurinda Amakuru", "text": "nguzo.official@gmail.com" },
-              { "label": "Inkunga Rusangi", "text": "support.nguzo@gmail.com" },
-              { "label": "Aderesi", "text": "Bujumbura, Republika y'Uburundi" }
+              { "label": "Inkunga Rusangi", "text": "support.nguzo@gmail.com" }
             ],
             "footer": "Nusanga uburenganzira bwawe bw'intimba bwasuzumwe kandi nta cyo twakugiranye ku birebana n'ibibazo byawe, ufite uburenganzira bwo gutanga ikirego kuri Urwego rw'Ubwisanzure rw'Uburundi rwo Kurinda Amakuru igihe rizoshyirwa mu bikorwa mu mategeko y'amakuru ya Nzero 2026."
           }
